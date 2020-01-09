@@ -1,0 +1,3388 @@
+{
+  "VCALENDAR": [
+    {
+      "VERSION": "2.0",
+      "PRODID": "-//6fd97568393d8a8b5b90c2ca5be1e3a7//NONSGML kigkonsult.se iCalcreator 2.29.14//",
+      "CALSCALE": "GREGORIAN",
+      "UID": "60ea72c9-2749-43ab-b34f-bd152a92c286",
+      "X-WR-CALNAME": "Employment anniversaries for CloudFactory",
+      "VEVENT": [
+        {
+          "UID": "acb460ff-756a-47f9-a6d8-50d0c2c78b49",
+          "DTSTAMP": "20200109T074700Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Prashant Pokharel (3 yrs)",
+          "DTSTART;VALUE=DATE": "20210101",
+          "SUMMARY": "Prashant Pokharel (3 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "2a40b3f0-eb8f-4574-af62-3bf986998526",
+          "DTSTAMP": "20200109T074700Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Catherine Njoroge (1 yr)",
+          "DTSTART;VALUE=DATE": "20210102",
+          "SUMMARY": "Catherine Njoroge (1 yr)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "0ea14a79-40c8-41e6-a087-c88867e0742f",
+          "DTSTAMP": "20200109T074700Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Juma Mariekhe (3 yrs)",
+          "DTSTART;VALUE=DATE": "20210103",
+          "SUMMARY": "Juma Mariekhe (3 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "71529207-0c50-4930-98c6-baef9d279488",
+          "DTSTAMP": "20200109T074700Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Madhuri Shrestha (6 yrs)",
+          "DTSTART;VALUE=DATE": "20210105",
+          "SUMMARY": "Madhuri Shrestha (6 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "923742cb-8dcc-44b2-9d27-9175e120e747",
+          "DTSTAMP": "20200109T074700Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Alina Karmacharya (6 yrs)",
+          "DTSTART;VALUE=DATE": "20210105",
+          "SUMMARY": "Alina Karmacharya (6 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "dcecb4db-24ee-4527-9350-a63e42d0ffc5",
+          "DTSTAMP": "20200109T074700Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Abish Basnet (1 yr)",
+          "DTSTART;VALUE=DATE": "20210106",
+          "SUMMARY": "Abish Basnet (1 yr)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "ca644065-7e83-4413-9268-c65bbf79b5b6",
+          "DTSTAMP": "20200109T074700Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Sanjay Karki (1 yr)",
+          "DTSTART;VALUE=DATE": "20210106",
+          "SUMMARY": "Sanjay Karki (1 yr)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "a8308dc6-aac5-434a-a6d8-77665aa1845a",
+          "DTSTAMP": "20200109T074700Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Ashutosh Neupane (1 yr)",
+          "DTSTART;VALUE=DATE": "20210106",
+          "SUMMARY": "Ashutosh Neupane (1 yr)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "5e513acb-79de-4565-840a-f42fea62d861",
+          "DTSTAMP": "20200109T074700Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Festus Kiragu (1 yr)",
+          "DTSTART;VALUE=DATE": "20210106",
+          "SUMMARY": "Festus Kiragu (1 yr)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "3cd93592-dda8-4924-9e22-13f5a96b2801",
+          "DTSTAMP": "20200109T074700Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Bikesh Maharjan (1 yr)",
+          "DTSTART;VALUE=DATE": "20210106",
+          "SUMMARY": "Bikesh Maharjan (1 yr)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "ee6c8f69-0dbc-4ffa-ab96-05ecd3e44c06",
+          "DTSTAMP": "20200109T074700Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Rai Amin (1 yr)",
+          "DTSTART;VALUE=DATE": "20210106",
+          "SUMMARY": "Rai Amin (1 yr)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "59fef890-d3ce-4f48-b0d9-6ab9ce6ab3b5",
+          "DTSTAMP": "20200109T074700Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Marie Wedlin (2 yrs)",
+          "DTSTART;VALUE=DATE": "20210107",
+          "SUMMARY": "Marie Wedlin (2 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "d724ffde-0607-4e78-96cc-1aa67a034e2f",
+          "DTSTAMP": "20200109T074700Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Mamata Pradhananga (4 yrs)",
+          "DTSTART;VALUE=DATE": "20200111",
+          "SUMMARY": "Mamata Pradhananga (4 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "4f7dbd8e-34d2-44fe-8809-fe800adaefb7",
+          "DTSTAMP": "20200109T074700Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Kevin Juma (1 yr)",
+          "DTSTART;VALUE=DATE": "20200114",
+          "SUMMARY": "Kevin Juma (1 yr)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "4c570751-2f59-4047-85a1-a4a4ceffc5c8",
+          "DTSTAMP": "20200109T074700Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Bilgram Kwendo (1 yr)",
+          "DTSTART;VALUE=DATE": "20200114",
+          "SUMMARY": "Bilgram Kwendo (1 yr)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "6f9a685c-4a1d-4f01-b038-0a2174569cf6",
+          "DTSTAMP": "20200109T074700Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Steve Okebe (1 yr)",
+          "DTSTART;VALUE=DATE": "20200114",
+          "SUMMARY": "Steve Okebe (1 yr)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "51a78ca5-7411-4cc4-8606-2dfc5a82da82",
+          "DTSTAMP": "20200109T074700Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Chris Williams (2 yrs)",
+          "DTSTART;VALUE=DATE": "20200115",
+          "SUMMARY": "Chris Williams (2 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "b1b4fc76-f06e-41cb-ac17-c2cd51185073",
+          "DTSTAMP": "20200109T074700Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Pushpa Kafle (8 yrs)",
+          "DTSTART;VALUE=DATE": "20200117",
+          "SUMMARY": "Pushpa Kafle (8 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "696977f8-3993-41bc-a2d0-b2ad89885b9c",
+          "DTSTAMP": "20200109T074700Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Hugh Roberts IV (4 yrs)",
+          "DTSTART;VALUE=DATE": "20200118",
+          "SUMMARY": "Hugh Roberts IV (4 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "64d42fd8-24f2-487c-802f-d50c42cb493d",
+          "DTSTAMP": "20200109T074700Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Milan Adhikari (1 yr)",
+          "DTSTART;VALUE=DATE": "20200121",
+          "SUMMARY": "Milan Adhikari (1 yr)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "65abda68-219a-49c6-9527-65737e20077e",
+          "DTSTAMP": "20200109T074700Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Craig Somers (1 yr)",
+          "DTSTART;VALUE=DATE": "20200121",
+          "SUMMARY": "Craig Somers (1 yr)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "b2ce5662-577d-4e23-8b6e-95e800eeb2b6",
+          "DTSTAMP": "20200109T074700Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Rajiv Sah (1 yr)",
+          "DTSTART;VALUE=DATE": "20200121",
+          "SUMMARY": "Rajiv Sah (1 yr)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "6dd80129-5a4a-4dd3-b1c8-eaacc9ac0ca0",
+          "DTSTAMP": "20200109T074700Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Shankar Acharya (1 yr)",
+          "DTSTART;VALUE=DATE": "20200121",
+          "SUMMARY": "Shankar Acharya (1 yr)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "6338d0f2-b3f8-4765-9022-12e02e9a5af4",
+          "DTSTAMP": "20200109T074700Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Subesh Bhandari (1 yr)",
+          "DTSTART;VALUE=DATE": "20200121",
+          "SUMMARY": "Subesh Bhandari (1 yr)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "6e01e862-4cd5-4538-b13e-f8964777db2c",
+          "DTSTAMP": "20200109T074700Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Elina Dangol (1 yr)",
+          "DTSTART;VALUE=DATE": "20200121",
+          "SUMMARY": "Elina Dangol (1 yr)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "224f2695-fed6-4591-baae-bb60828476bf",
+          "DTSTAMP": "20200109T074700Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Bishnu Subedi (7 yrs)",
+          "DTSTART;VALUE=DATE": "20200121",
+          "SUMMARY": "Bishnu Subedi (7 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "ccafd4b8-a83e-4be8-b36c-2a520cb0bbef",
+          "DTSTAMP": "20200109T074700Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Emily Hall (1 yr)",
+          "DTSTART;VALUE=DATE": "20200121",
+          "SUMMARY": "Emily Hall (1 yr)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "88b5a151-e9fe-4b27-8780-6a6a64d8a488",
+          "DTSTAMP": "20200109T074700Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Jacqueline Kariuki (4 yrs)",
+          "DTSTART;VALUE=DATE": "20200125",
+          "SUMMARY": "Jacqueline Kariuki (4 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "e53116e5-9978-48e8-86bf-c3ed796169c7",
+          "DTSTAMP": "20200109T074700Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Philip Tester (5 yrs)",
+          "DTSTART;VALUE=DATE": "20200126",
+          "SUMMARY": "Philip Tester (5 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "8f4dd74a-17de-4fc2-9ac5-53292ff465f7",
+          "DTSTAMP": "20200109T074700Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Anthony Muhia (2 yrs)",
+          "DTSTART;VALUE=DATE": "20200129",
+          "SUMMARY": "Anthony Muhia (2 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "323a5cce-167d-4fbe-bea7-426c01c1f869",
+          "DTSTAMP": "20200109T074700Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Moe Alim (1 yr)",
+          "DTSTART;VALUE=DATE": "20200130",
+          "SUMMARY": "Moe Alim (1 yr)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "259541f0-22e2-475a-b1d4-81ef92eaab0e",
+          "DTSTAMP": "20200109T074700Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Dhruva Magar (7 yrs)",
+          "DTSTART;VALUE=DATE": "20200201",
+          "SUMMARY": "Dhruva Magar (7 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "609ffa52-ef9d-4b58-b942-44117b277726",
+          "DTSTAMP": "20200109T074700Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Rikesh Karki (7 yrs)",
+          "DTSTART;VALUE=DATE": "20200201",
+          "SUMMARY": "Rikesh Karki (7 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "032d74ae-e54d-4afc-ba84-9fef78405865",
+          "DTSTAMP": "20200109T074700Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Andy Haile (2 yrs)",
+          "DTSTART;VALUE=DATE": "20200201",
+          "SUMMARY": "Andy Haile (2 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "0c3edc76-95f7-47ca-b7a4-bd99ba550ff8",
+          "DTSTAMP": "20200109T074700Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Anjal Amatya (2 yrs)",
+          "DTSTART;VALUE=DATE": "20200201",
+          "SUMMARY": "Anjal Amatya (2 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "eeacd25d-b18f-42ce-882e-0841f8ffab02",
+          "DTSTAMP": "20200109T074700Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Gaurav KC (4 yrs)",
+          "DTSTART;VALUE=DATE": "20200201",
+          "SUMMARY": "Gaurav KC (4 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "b9987102-6d2d-46ac-abb4-3b18843ee635",
+          "DTSTAMP": "20200109T074700Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Asmita Dhital (2 yrs)",
+          "DTSTART;VALUE=DATE": "20200201",
+          "SUMMARY": "Asmita Dhital (2 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "1273a99a-3479-44ee-8f88-1926d5870d55",
+          "DTSTAMP": "20200109T074700Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Laxman Basnet (2 yrs)",
+          "DTSTART;VALUE=DATE": "20200205",
+          "SUMMARY": "Laxman Basnet (2 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "7c948715-b7c1-45eb-8575-79ae6ede69d5",
+          "DTSTAMP": "20200109T074700Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Rikesh Maharjan (2 yrs)",
+          "DTSTART;VALUE=DATE": "20200205",
+          "SUMMARY": "Rikesh Maharjan (2 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "3b51df1f-2d71-4583-ba0e-0f291817e32f",
+          "DTSTAMP": "20200109T074700Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Glen Munro (1 yr)",
+          "DTSTART;VALUE=DATE": "20200208",
+          "SUMMARY": "Glen Munro (1 yr)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "e8c0065b-413e-46f8-a012-f1d64329c3df",
+          "DTSTAMP": "20200109T074700Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Kaji Basukala (9 yrs)",
+          "DTSTART;VALUE=DATE": "20200211",
+          "SUMMARY": "Kaji Basukala (9 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "03df034b-a863-4154-9f18-44a7136d636c",
+          "DTSTAMP": "20200109T074700Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Keshav Gartaula (4 yrs)",
+          "DTSTART;VALUE=DATE": "20200215",
+          "SUMMARY": "Keshav Gartaula (4 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "0c40cbbf-bb9a-40ca-afeb-6b73a1e16b87",
+          "DTSTAMP": "20200109T074700Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Binita Shai (5 yrs)",
+          "DTSTART;VALUE=DATE": "20200216",
+          "SUMMARY": "Binita Shai (5 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "4e98eda7-6909-4673-80e7-653d7a912d66",
+          "DTSTAMP": "20200109T074700Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Alisha Shakya (1 yr)",
+          "DTSTART;VALUE=DATE": "20200220",
+          "SUMMARY": "Alisha Shakya (1 yr)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "a753f104-4a6e-4836-b7b4-9f3c4ccef49b",
+          "DTSTAMP": "20200109T074700Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Vivek Adhikari (4 yrs)",
+          "DTSTART;VALUE=DATE": "20200222",
+          "SUMMARY": "Vivek Adhikari (4 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "3eb5d476-d2d8-453b-ae41-141951420bb6",
+          "DTSTAMP": "20200109T074700Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Jen Stone (1 yr)",
+          "DTSTART;VALUE=DATE": "20200225",
+          "SUMMARY": "Jen Stone (1 yr)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "5b457eb4-3011-42e3-ab43-3b560dd3711a",
+          "DTSTAMP": "20200109T074700Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Sajun Shrestha (3 yrs)",
+          "DTSTART;VALUE=DATE": "20200227",
+          "SUMMARY": "Sajun Shrestha (3 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "af9b7b05-6767-414f-b027-a26d14003532",
+          "DTSTAMP": "20200109T074700Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Ram Maharjan (4 yrs)",
+          "DTSTART;VALUE=DATE": "20200301",
+          "SUMMARY": "Ram Maharjan (4 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "00934abd-8ecd-438b-9406-ec3d62616748",
+          "DTSTAMP": "20200109T074700Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Sabin Shahi (4 yrs)",
+          "DTSTART;VALUE=DATE": "20200301",
+          "SUMMARY": "Sabin Shahi (4 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "073cfd84-e2ea-4683-aa03-d4103ab216a1",
+          "DTSTAMP": "20200109T074700Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for John Ndegwa (2 yrs)",
+          "DTSTART;VALUE=DATE": "20200301",
+          "SUMMARY": "John Ndegwa (2 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "9cafb182-138c-4856-826a-d8575e35601f",
+          "DTSTAMP": "20200109T074700Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Eli Irungu (2 yrs)",
+          "DTSTART;VALUE=DATE": "20200301",
+          "SUMMARY": "Eli Irungu (2 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "e2f27c5c-3a8a-4b17-8d80-2de716ba0aa1",
+          "DTSTAMP": "20200109T074700Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Castine Kitah (2 yrs)",
+          "DTSTART;VALUE=DATE": "20200301",
+          "SUMMARY": "Castine Kitah (2 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "f44aba33-e3a1-4e11-aa27-dccd9ec7de70",
+          "DTSTAMP": "20200109T074700Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Bardan Rana (8 yrs)",
+          "DTSTART;VALUE=DATE": "20200301",
+          "SUMMARY": "Bardan Rana (8 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "522229c9-9194-47fa-943b-a554e7d4f065",
+          "DTSTAMP": "20200109T074700Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Faith Okinyi (3 yrs)",
+          "DTSTART;VALUE=DATE": "20200301",
+          "SUMMARY": "Faith Okinyi (3 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "c6cfe712-d0aa-472c-b4f5-866de3c707eb",
+          "DTSTAMP": "20200109T074700Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Bill Heffelfinger (1 yr)",
+          "DTSTART;VALUE=DATE": "20200304",
+          "SUMMARY": "Bill Heffelfinger (1 yr)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "15d53ba2-a8d8-49ec-8177-47a9df770cc4",
+          "DTSTAMP": "20200109T074700Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Nicole Hussey (1 yr)",
+          "DTSTART;VALUE=DATE": "20200304",
+          "SUMMARY": "Nicole Hussey (1 yr)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "a19171f2-52dd-4192-9ced-219f5f2a1077",
+          "DTSTAMP": "20200109T074700Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Wanjiru Muraya (5 yrs)",
+          "DTSTART;VALUE=DATE": "20200306",
+          "SUMMARY": "Wanjiru Muraya (5 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "28d048b3-0e15-40a4-a938-eadf81a2aa94",
+          "DTSTAMP": "20200109T074700Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Victor Migabo (5 yrs)",
+          "DTSTART;VALUE=DATE": "20200309",
+          "SUMMARY": "Victor Migabo (5 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "adcee77c-11b2-4068-a8ce-780af59e0a22",
+          "DTSTAMP": "20200109T074700Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Stephen Smith (1 yr)",
+          "DTSTART;VALUE=DATE": "20200311",
+          "SUMMARY": "Stephen Smith (1 yr)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "8e946482-b5b7-4398-af35-85230eeace84",
+          "DTSTAMP": "20200109T074700Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Margaret Wanderi (2 yrs)",
+          "DTSTART;VALUE=DATE": "20200312",
+          "SUMMARY": "Margaret Wanderi (2 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "15039d02-21b6-4822-b20c-7ce094c5a350",
+          "DTSTAMP": "20200109T074700Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Owen Muchiri (2 yrs)",
+          "DTSTART;VALUE=DATE": "20200312",
+          "SUMMARY": "Owen Muchiri (2 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "61f7ab9b-e6cd-45d9-a8a4-e2db9439290c",
+          "DTSTAMP": "20200109T074700Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Wangari Kinuthia (3 yrs)",
+          "DTSTART;VALUE=DATE": "20200313",
+          "SUMMARY": "Wangari Kinuthia (3 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "ffd03058-089c-4fb6-8590-67a7078f9bdd",
+          "DTSTAMP": "20200109T074700Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Bandana Lama (3 yrs)",
+          "DTSTART;VALUE=DATE": "20200313",
+          "SUMMARY": "Bandana Lama (3 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "1c612602-0aa6-4d73-b18f-3793849a1080",
+          "DTSTAMP": "20200109T074700Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Resian Sankei (3 yrs)",
+          "DTSTART;VALUE=DATE": "20200313",
+          "SUMMARY": "Resian Sankei (3 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "6571fa13-464f-4833-adc7-7ec9ca38a5cd",
+          "DTSTAMP": "20200109T074700Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Phill Thompson (2 yrs)",
+          "DTSTART;VALUE=DATE": "20200314",
+          "SUMMARY": "Phill Thompson (2 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "b517d0b1-91b3-4754-854e-2a97837e17c8",
+          "DTSTAMP": "20200109T074700Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Faith Kimanzi (2 yrs)",
+          "DTSTART;VALUE=DATE": "20200314",
+          "SUMMARY": "Faith Kimanzi (2 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "5859e0af-7bd0-4d7f-8e55-04b07d86df93",
+          "DTSTAMP": "20200109T074700Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Cassie Thompson (1 yr)",
+          "DTSTART;VALUE=DATE": "20200318",
+          "SUMMARY": "Cassie Thompson (1 yr)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "0974132d-4ab1-4836-9b4e-0e83ea55ec8d",
+          "DTSTAMP": "20200109T074700Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Sushil Sapkota (2 yrs)",
+          "DTSTART;VALUE=DATE": "20200319",
+          "SUMMARY": "Sushil Sapkota (2 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "628d56e6-54e2-4375-b638-c1832e8e1024",
+          "DTSTAMP": "20200109T074700Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Edu Mwangi (2 yrs)",
+          "DTSTART;VALUE=DATE": "20200319",
+          "SUMMARY": "Edu Mwangi (2 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "09f9ca66-3632-41c7-8d9a-19c04d1d5092",
+          "DTSTAMP": "20200109T074700Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Muthami Ndiang'ui (3 yrs)",
+          "DTSTART;VALUE=DATE": "20200322",
+          "SUMMARY": "Muthami Ndiang'ui (3 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "e16f3324-6ace-4cd0-b7ff-7df9f5034b03",
+          "DTSTAMP": "20200109T074700Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Sushan Maharjan (3 yrs)",
+          "DTSTART;VALUE=DATE": "20200323",
+          "SUMMARY": "Sushan Maharjan (3 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "88dbb54b-60a8-4f53-9384-dd1245f9f7e7",
+          "DTSTAMP": "20200109T074700Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Raman Amatya (6 yrs)",
+          "DTSTART;VALUE=DATE": "20200324",
+          "SUMMARY": "Raman Amatya (6 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "9c530a7f-c6fa-4b4f-915b-904019a56176",
+          "DTSTAMP": "20200109T074700Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Cait Bauer (1 yr)",
+          "DTSTART;VALUE=DATE": "20200325",
+          "SUMMARY": "Cait Bauer (1 yr)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "0fd5302b-b5fb-41e3-972e-76b67f9ad66b",
+          "DTSTAMP": "20200109T074700Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Sophie Maharjan (1 yr)",
+          "DTSTART;VALUE=DATE": "20200325",
+          "SUMMARY": "Sophie Maharjan (1 yr)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "a624a130-fbcf-4c32-9c54-f6f57bd67d39",
+          "DTSTAMP": "20200109T074700Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Peter Irwin (1 yr)",
+          "DTSTART;VALUE=DATE": "20200325",
+          "SUMMARY": "Peter Irwin (1 yr)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "9d00c7fa-0aec-4cfa-946d-3ded61180f63",
+          "DTSTAMP": "20200109T074700Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Rodrick Kifuvi (2 yrs)",
+          "DTSTART;VALUE=DATE": "20200326",
+          "SUMMARY": "Rodrick Kifuvi (2 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "3a0bae58-7de3-47a2-b548-0c72f0d8ecbd",
+          "DTSTAMP": "20200109T074700Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Boni Sharma Khatiwada (2 yrs)",
+          "DTSTART;VALUE=DATE": "20200326",
+          "SUMMARY": "Boni Sharma Khatiwada (2 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "d1da0479-834b-478b-8035-9be1245eabb7",
+          "DTSTAMP": "20200109T074700Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Puja Jha (4 yrs)",
+          "DTSTART;VALUE=DATE": "20200328",
+          "SUMMARY": "Puja Jha (4 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "0a6dabbb-c224-4ed5-901e-af9ccaa02c0e",
+          "DTSTAMP": "20200109T074700Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Tom Battle (1 yr)",
+          "DTSTART;VALUE=DATE": "20200401",
+          "SUMMARY": "Tom Battle (1 yr)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "426470cc-7fad-47c1-8f4b-4e1ada263520",
+          "DTSTAMP": "20200109T074700Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Nate Howell (4 yrs)",
+          "DTSTART;VALUE=DATE": "20200401",
+          "SUMMARY": "Nate Howell (4 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "26491b7f-54da-4d6a-9014-ffb089a785eb",
+          "DTSTAMP": "20200109T074700Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Lilian Kariba (2 yrs)",
+          "DTSTART;VALUE=DATE": "20200402",
+          "SUMMARY": "Lilian Kariba (2 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "e5c0d55a-72e1-4f32-83a5-087cbcb6d4ab",
+          "DTSTAMP": "20200109T074700Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Rohit Joshi (2 yrs)",
+          "DTSTART;VALUE=DATE": "20200402",
+          "SUMMARY": "Rohit Joshi (2 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "8891fb61-75c2-427d-9ce8-802aa024d91e",
+          "DTSTAMP": "20200109T074700Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Sabin Bista (2 yrs)",
+          "DTSTART;VALUE=DATE": "20200402",
+          "SUMMARY": "Sabin Bista (2 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "cae0c8c0-c252-4987-baad-ceb976faa7a2",
+          "DTSTAMP": "20200109T074700Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for John Sunam (1 yr)",
+          "DTSTART;VALUE=DATE": "20200408",
+          "SUMMARY": "John Sunam (1 yr)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "5eb13d48-d82c-49ac-86dc-2b0144689647",
+          "DTSTAMP": "20200109T074700Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Joel Montgomery (3 yrs)",
+          "DTSTART;VALUE=DATE": "20200410",
+          "SUMMARY": "Joel Montgomery (3 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "40e2d136-7683-4ae5-abbb-8d87bff64798",
+          "DTSTAMP": "20200109T074700Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Ramij Karna (4 yrs)",
+          "DTSTART;VALUE=DATE": "20200411",
+          "SUMMARY": "Ramij Karna (4 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "328d3dfb-5fef-4a9a-8670-e66c00f21242",
+          "DTSTAMP": "20200109T074700Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Yeshoda Shakya (4 yrs)",
+          "DTSTART;VALUE=DATE": "20200411",
+          "SUMMARY": "Yeshoda Shakya (4 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "62b03b9e-5aac-4656-abcd-dadea62995f2",
+          "DTSTAMP": "20200109T074700Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Vincent Oluoch (4 yrs)",
+          "DTSTART;VALUE=DATE": "20200411",
+          "SUMMARY": "Vincent Oluoch (4 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "cbaa6e69-76de-4849-ba10-987abc221c07",
+          "DTSTAMP": "20200109T074700Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Sarwagya Pandey (11 yrs)",
+          "DTSTART;VALUE=DATE": "20200413",
+          "SUMMARY": "Sarwagya Pandey (11 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "e5f1ba14-3b00-4706-9598-5984ded219e0",
+          "DTSTAMP": "20200109T074700Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Sakshyam Joshi (1 yr)",
+          "DTSTART;VALUE=DATE": "20200415",
+          "SUMMARY": "Sakshyam Joshi (1 yr)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "89310d42-ad0f-4220-af3a-e8d5adc22bbf",
+          "DTSTAMP": "20200109T074700Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Kelvin Wainaina (2 yrs)",
+          "DTSTART;VALUE=DATE": "20200416",
+          "SUMMARY": "Kelvin Wainaina (2 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "8ee5fa3f-7efe-4c14-9c3e-c50ab64a4a4c",
+          "DTSTAMP": "20200109T074700Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Damian Rochman (2 yrs)",
+          "DTSTART;VALUE=DATE": "20200416",
+          "SUMMARY": "Damian Rochman (2 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "3a6b4e26-fda0-4e03-9a49-0a2d2535e113",
+          "DTSTAMP": "20200109T074700Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Carol Wright (2 yrs)",
+          "DTSTART;VALUE=DATE": "20200416",
+          "SUMMARY": "Carol Wright (2 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "3e926515-bf8b-4aad-b715-a9788e1bbdd8",
+          "DTSTAMP": "20200109T074700Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Sakar Lamichhane (3 yrs)",
+          "DTSTART;VALUE=DATE": "20200417",
+          "SUMMARY": "Sakar Lamichhane (3 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "cb7b97cf-68bc-401e-a7d1-ddd11d5d4545",
+          "DTSTAMP": "20200109T074700Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Dorothy Okoth (5 yrs)",
+          "DTSTART;VALUE=DATE": "20200420",
+          "SUMMARY": "Dorothy Okoth (5 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "bdd71433-8b17-4992-9646-0a4e292f82e4",
+          "DTSTAMP": "20200109T074700Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Tina Deula (7 yrs)",
+          "DTSTART;VALUE=DATE": "20200422",
+          "SUMMARY": "Tina Deula (7 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "e4e2a494-61da-4311-8fd7-2a50392f618d",
+          "DTSTAMP": "20200109T074700Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Roshan Maharjan (7 yrs)",
+          "DTSTART;VALUE=DATE": "20200429",
+          "SUMMARY": "Roshan Maharjan (7 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "36506c60-87ef-4770-afaa-da1027705102",
+          "DTSTAMP": "20200109T074700Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Soham Dhakal (1 yr)",
+          "DTSTART;VALUE=DATE": "20200501",
+          "SUMMARY": "Soham Dhakal (1 yr)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "b80320a3-77e2-4511-adc0-33611a237348",
+          "DTSTAMP": "20200109T074700Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Trishala Mathema (2 yrs)",
+          "DTSTART;VALUE=DATE": "20200502",
+          "SUMMARY": "Trishala Mathema (2 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "9c9aa8c3-e436-4aba-bc35-15d141298d07",
+          "DTSTAMP": "20200109T074700Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Kriss Basnet (3 yrs)",
+          "DTSTART;VALUE=DATE": "20200502",
+          "SUMMARY": "Kriss Basnet (3 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "355bbf1e-65c6-465e-acbb-6ebdcc8b7d03",
+          "DTSTAMP": "20200109T074700Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Gee Mwangi (2 yrs)",
+          "DTSTART;VALUE=DATE": "20200502",
+          "SUMMARY": "Gee Mwangi (2 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "09be67b7-3152-419b-88e8-5dc4602e8d8f",
+          "DTSTAMP": "20200109T074700Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Yum Phan (4 yrs)",
+          "DTSTART;VALUE=DATE": "20200502",
+          "SUMMARY": "Yum Phan (4 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "22e6f2bb-89b8-4265-af7c-e242ac6bcd10",
+          "DTSTAMP": "20200109T074700Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Monika Shrestha (4 yrs)",
+          "DTSTART;VALUE=DATE": "20200502",
+          "SUMMARY": "Monika Shrestha (4 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "37de5b55-4b03-450c-8749-5983a9eea795",
+          "DTSTAMP": "20200109T074700Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Osinde Nyamweya (2 yrs)",
+          "DTSTART;VALUE=DATE": "20200502",
+          "SUMMARY": "Osinde Nyamweya (2 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "97696837-d6e0-4836-9850-ca4b49f72ba8",
+          "DTSTAMP": "20200109T074700Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Roshan Lama (2 yrs)",
+          "DTSTART;VALUE=DATE": "20200503",
+          "SUMMARY": "Roshan Lama (2 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "e221647f-706f-450b-8007-ca238694b09b",
+          "DTSTAMP": "20200109T074700Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Valentina Raia (1 yr)",
+          "DTSTART;VALUE=DATE": "20200507",
+          "SUMMARY": "Valentina Raia (1 yr)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "0a82b90e-bf93-4374-941f-f0599c62219e",
+          "DTSTAMP": "20200109T074700Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Molline Mwangi (3 yrs)",
+          "DTSTART;VALUE=DATE": "20200508",
+          "SUMMARY": "Molline Mwangi (3 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "86723608-b599-4973-9645-6dffe24875e7",
+          "DTSTAMP": "20200109T074700Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Heather Niemiller (3 yrs)",
+          "DTSTART;VALUE=DATE": "20200509",
+          "SUMMARY": "Heather Niemiller (3 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "2ae3e341-3fe7-420f-bf53-afd99ac9fca7",
+          "DTSTAMP": "20200109T074700Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Beja Ngowa (2 yrs)",
+          "DTSTART;VALUE=DATE": "20200510",
+          "SUMMARY": "Beja Ngowa (2 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "12943232-77d2-4918-be0d-306398c6e532",
+          "DTSTAMP": "20200109T074700Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Nirdosh Gautam (5 yrs)",
+          "DTSTART;VALUE=DATE": "20200511",
+          "SUMMARY": "Nirdosh Gautam (5 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "9f28c378-fb3e-4dc7-abe7-21ba35985af5",
+          "DTSTAMP": "20200109T074700Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Sundar Vaidya (7 yrs)",
+          "DTSTART;VALUE=DATE": "20200513",
+          "SUMMARY": "Sundar Vaidya (7 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "31b78ee4-e467-4c2f-a828-2070319679ac",
+          "DTSTAMP": "20200109T074700Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Kabin Pandey (7 yrs)",
+          "DTSTART;VALUE=DATE": "20200513",
+          "SUMMARY": "Kabin Pandey (7 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "0414ddee-c75a-4cb6-8d6a-a9b4aa8c13dd",
+          "DTSTAMP": "20200109T074700Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Anuj Kachapati (7 yrs)",
+          "DTSTART;VALUE=DATE": "20200513",
+          "SUMMARY": "Anuj Kachapati (7 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "3c8b771d-c890-421d-ad58-fb98fb8834ac",
+          "DTSTAMP": "20200109T074700Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Bijesh Dhakal (2 yrs)",
+          "DTSTART;VALUE=DATE": "20200514",
+          "SUMMARY": "Bijesh Dhakal (2 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "2b31eb3f-7a80-4e42-88be-bb83c62ee0af",
+          "DTSTAMP": "20200109T074700Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Chris Omondi (2 yrs)",
+          "DTSTART;VALUE=DATE": "20200514",
+          "SUMMARY": "Chris Omondi (2 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "39394d15-ba9c-4bf3-9a72-fe68e5e9d3c5",
+          "DTSTAMP": "20200109T074700Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Mercy Aruwa (2 yrs)",
+          "DTSTART;VALUE=DATE": "20200514",
+          "SUMMARY": "Mercy Aruwa (2 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "bf12fe5f-eb08-4a85-a53b-4cd368497ca2",
+          "DTSTAMP": "20200109T074700Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Phillip Njake (2 yrs)",
+          "DTSTART;VALUE=DATE": "20200514",
+          "SUMMARY": "Phillip Njake (2 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "95982490-df76-44db-a52e-afac10fcaf15",
+          "DTSTAMP": "20200109T074700Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Cate Kabiru (2 yrs)",
+          "DTSTART;VALUE=DATE": "20200514",
+          "SUMMARY": "Cate Kabiru (2 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "1529cc98-2ac6-41d0-a65f-71f53b55d3f4",
+          "DTSTAMP": "20200109T074700Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Mugechi Ngandu (2 yrs)",
+          "DTSTART;VALUE=DATE": "20200514",
+          "SUMMARY": "Mugechi Ngandu (2 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "3af429c4-0648-49e4-b66f-e9f446e431bd",
+          "DTSTAMP": "20200109T074700Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Anita Sharma (7 yrs)",
+          "DTSTART;VALUE=DATE": "20200515",
+          "SUMMARY": "Anita Sharma (7 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "4c8f709e-6815-4c4b-8949-7c004414b80f",
+          "DTSTAMP": "20200109T074700Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Leah Kimotho (7 yrs)",
+          "DTSTART;VALUE=DATE": "20200516",
+          "SUMMARY": "Leah Kimotho (7 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "ccf01abe-a26a-43de-a503-145473fe3d56",
+          "DTSTAMP": "20200109T074700Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Mani Maharjan (5 yrs)",
+          "DTSTART;VALUE=DATE": "20200518",
+          "SUMMARY": "Mani Maharjan (5 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "ae01d4a1-79da-42f8-981e-32d9f0a1d19a",
+          "DTSTAMP": "20200109T074700Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Milap Neupane (7 yrs)",
+          "DTSTART;VALUE=DATE": "20200520",
+          "SUMMARY": "Milap Neupane (7 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "1a0e820b-9d07-472a-80fb-0b076191db66",
+          "DTSTAMP": "20200109T074700Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Rama Shrestha (2 yrs)",
+          "DTSTART;VALUE=DATE": "20200521",
+          "SUMMARY": "Rama Shrestha (2 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "7840abbf-ea2d-4cb2-9a32-96b4977e3cec",
+          "DTSTAMP": "20200109T074700Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Solomon Wagura (2 yrs)",
+          "DTSTART;VALUE=DATE": "20200521",
+          "SUMMARY": "Solomon Wagura (2 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "fd01c1a2-24ba-4b07-8f72-f0edfce163b6",
+          "DTSTAMP": "20200109T074700Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Sonisha Khadka (2 yrs)",
+          "DTSTART;VALUE=DATE": "20200521",
+          "SUMMARY": "Sonisha Khadka (2 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "ca63e232-c7be-4c47-8d86-1f3000584b8e",
+          "DTSTAMP": "20200109T074700Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Cam Graham (1 yr)",
+          "DTSTART;VALUE=DATE": "20200522",
+          "SUMMARY": "Cam Graham (1 yr)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "bb05ee01-60f1-4baa-a270-5630e4d81cee",
+          "DTSTAMP": "20200109T074700Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Victoria Chege (1 yr)",
+          "DTSTART;VALUE=DATE": "20200523",
+          "SUMMARY": "Victoria Chege (1 yr)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "9264b9e3-8271-4cb9-9f23-dd7cd8e521a7",
+          "DTSTAMP": "20200109T074700Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Kevin Ikadi (2 yrs)",
+          "DTSTART;VALUE=DATE": "20200528",
+          "SUMMARY": "Kevin Ikadi (2 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "20e4dd8d-8218-4b18-93c5-bb178c3042b5",
+          "DTSTAMP": "20200109T074700Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Cosmas Matundura (2 yrs)",
+          "DTSTART;VALUE=DATE": "20200528",
+          "SUMMARY": "Cosmas Matundura (2 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "16831263-b524-4c6c-aa2c-22836b9d7894",
+          "DTSTAMP": "20200109T074700Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Renu Magar (10 yrs)",
+          "DTSTART;VALUE=DATE": "20200601",
+          "SUMMARY": "Renu Magar (10 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "fd02a588-8bb4-4231-8c77-2b89ad7ca8eb",
+          "DTSTAMP": "20200109T074700Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for John Schauf (4 yrs)",
+          "DTSTART;VALUE=DATE": "20200601",
+          "SUMMARY": "John Schauf (4 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "3ca5bddc-2b33-4d4e-a3a1-ee44810d276b",
+          "DTSTAMP": "20200109T074700Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Yogina Shakya (5 yrs)",
+          "DTSTART;VALUE=DATE": "20200601",
+          "SUMMARY": "Yogina Shakya (5 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "3d845aea-9591-47a5-b852-686f7b301118",
+          "DTSTAMP": "20200109T074700Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Sapana Karki (6 yrs)",
+          "DTSTART;VALUE=DATE": "20200602",
+          "SUMMARY": "Sapana Karki (6 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "2ae25a1e-1e48-4975-9e7a-229dec845baf",
+          "DTSTAMP": "20200109T074700Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Chuck Muckoya (1 yr)",
+          "DTSTART;VALUE=DATE": "20200603",
+          "SUMMARY": "Chuck Muckoya (1 yr)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "718e6431-3566-4e97-b11d-b8bd510560b4",
+          "DTSTAMP": "20200109T074700Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Stella Kuria (2 yrs)",
+          "DTSTART;VALUE=DATE": "20200604",
+          "SUMMARY": "Stella Kuria (2 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "eb2c19f4-649d-4d46-b626-1800bf5e7f39",
+          "DTSTAMP": "20200109T074700Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Pauline Kakungu (2 yrs)",
+          "DTSTART;VALUE=DATE": "20200604",
+          "SUMMARY": "Pauline Kakungu (2 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "df6273b7-6c46-470c-b3b8-94e9fe131c03",
+          "DTSTAMP": "20200109T074700Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Mulama Mulama (2 yrs)",
+          "DTSTART;VALUE=DATE": "20200604",
+          "SUMMARY": "Mulama Mulama (2 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "12129cf4-8107-4de6-8eb1-197685b80c6f",
+          "DTSTAMP": "20200109T074700Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Muya Muya (2 yrs)",
+          "DTSTART;VALUE=DATE": "20200604",
+          "SUMMARY": "Muya Muya (2 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "69d661e9-e755-4106-a8f3-f3cd532c9997",
+          "DTSTAMP": "20200109T074700Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Surbir Deshar (2 yrs)",
+          "DTSTART;VALUE=DATE": "20200604",
+          "SUMMARY": "Surbir Deshar (2 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "3eba5c32-0c53-4978-b6f5-fcfa23118fb6",
+          "DTSTAMP": "20200109T074700Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Gatimu Gatimu (2 yrs)",
+          "DTSTART;VALUE=DATE": "20200604",
+          "SUMMARY": "Gatimu Gatimu (2 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "9f2a779f-14d9-4218-8f19-4f5647ac6eba",
+          "DTSTAMP": "20200109T074700Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Gunjan Upadhyay (2 yrs)",
+          "DTSTART;VALUE=DATE": "20200604",
+          "SUMMARY": "Gunjan Upadhyay (2 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "5896a93e-53e4-480c-8f9d-1d439b220975",
+          "DTSTAMP": "20200109T074700Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Linda Kombo (2 yrs)",
+          "DTSTART;VALUE=DATE": "20200604",
+          "SUMMARY": "Linda Kombo (2 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "7c66c745-f593-4e72-8739-846adacceeda",
+          "DTSTAMP": "20200109T074700Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Miller Chemonges (2 yrs)",
+          "DTSTART;VALUE=DATE": "20200604",
+          "SUMMARY": "Miller Chemonges (2 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "95104824-2cf5-4732-849c-8df286367f41",
+          "DTSTAMP": "20200109T074700Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Supriya Maharjan (3 yrs)",
+          "DTSTART;VALUE=DATE": "20200605",
+          "SUMMARY": "Supriya Maharjan (3 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "84c229ed-2702-4dff-9ce0-4b0361bf3c98",
+          "DTSTAMP": "20200109T074700Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Bikash Sashankar (9 yrs)",
+          "DTSTART;VALUE=DATE": "20200606",
+          "SUMMARY": "Bikash Sashankar (9 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "fe8a94c0-16e0-4e84-83f0-ec9b8f07667e",
+          "DTSTAMP": "20200109T074700Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Nabin Khadka (4 yrs)",
+          "DTSTART;VALUE=DATE": "20200606",
+          "SUMMARY": "Nabin Khadka (4 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "fa3596d8-4fe9-48e9-b98e-e01e49d87410",
+          "DTSTAMP": "20200109T074700Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Sailesh Dhital (4 yrs)",
+          "DTSTART;VALUE=DATE": "20200606",
+          "SUMMARY": "Sailesh Dhital (4 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "dd4f74ba-1b12-4359-9317-a8b9d7855ce6",
+          "DTSTAMP": "20200109T074700Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Prakash Regmi (6 yrs)",
+          "DTSTART;VALUE=DATE": "20200609",
+          "SUMMARY": "Prakash Regmi (6 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "c75a347f-9565-4308-9e24-dec025bdf6f3",
+          "DTSTAMP": "20200109T074700Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Yasmeen Kashef (2 yrs)",
+          "DTSTART;VALUE=DATE": "20200611",
+          "SUMMARY": "Yasmeen Kashef (2 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "116acc3a-5a70-4e6c-aba7-442f87646596",
+          "DTSTAMP": "20200109T074700Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Shreya Jajodia (2 yrs)",
+          "DTSTART;VALUE=DATE": "20200611",
+          "SUMMARY": "Shreya Jajodia (2 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "879c71fa-97b6-4ed8-b233-30ec05d28342",
+          "DTSTAMP": "20200109T074700Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Linus Dhakal (2 yrs)",
+          "DTSTART;VALUE=DATE": "20200611",
+          "SUMMARY": "Linus Dhakal (2 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "443a4713-3017-4b0c-acb8-673720f20f52",
+          "DTSTAMP": "20200109T074700Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Alice Juma (3 yrs)",
+          "DTSTART;VALUE=DATE": "20200612",
+          "SUMMARY": "Alice Juma (3 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "8ebbdb3e-cce1-458a-a77c-65c96832c62c",
+          "DTSTAMP": "20200109T074700Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Dhanit Paija (4 yrs)",
+          "DTSTART;VALUE=DATE": "20200615",
+          "SUMMARY": "Dhanit Paija (4 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "7033fcbc-466d-4158-a368-eda13940b926",
+          "DTSTAMP": "20200109T074700Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Bhim Chhetri (5 yrs)",
+          "DTSTART;VALUE=DATE": "20200617",
+          "SUMMARY": "Bhim Chhetri (5 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "bd78a80a-b434-4bc5-b910-c7be8697fe99",
+          "DTSTAMP": "20200109T074700Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Michael Tanui (1 yr)",
+          "DTSTART;VALUE=DATE": "20200618",
+          "SUMMARY": "Michael Tanui (1 yr)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "c16fdd25-ed4e-46ec-90ff-4b26b574f1e1",
+          "DTSTAMP": "20200109T074700Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Arasa Evelyn (2 yrs)",
+          "DTSTART;VALUE=DATE": "20200619",
+          "SUMMARY": "Arasa Evelyn (2 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "a05a00ee-7b84-4d1c-97b4-80e69b57dc63",
+          "DTSTAMP": "20200109T074700Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Patrick Thiriku (2 yrs)",
+          "DTSTART;VALUE=DATE": "20200619",
+          "SUMMARY": "Patrick Thiriku (2 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "1bbe8632-94db-4dfe-a8b6-f1e3a39e882b",
+          "DTSTAMP": "20200109T074700Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Henry Baird (3 yrs)",
+          "DTSTART;VALUE=DATE": "20200621",
+          "SUMMARY": "Henry Baird (3 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "ed1f4e60-6cc1-4c86-a461-df7e85d90719",
+          "DTSTAMP": "20200109T074700Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Ayush Shrestha (4 yrs)",
+          "DTSTART;VALUE=DATE": "20200622",
+          "SUMMARY": "Ayush Shrestha (4 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "c142db89-0a9a-4703-b77e-3e8bdd6e8bdb",
+          "DTSTAMP": "20200109T074700Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Bishow Prajapati (2 yrs)",
+          "DTSTART;VALUE=DATE": "20200625",
+          "SUMMARY": "Bishow Prajapati (2 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "0bf4f28d-7cf4-4043-84d3-242b968c2507",
+          "DTSTAMP": "20200109T074700Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Reshma Timalsina (2 yrs)",
+          "DTSTART;VALUE=DATE": "20200625",
+          "SUMMARY": "Reshma Timalsina (2 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "3f1956a7-7297-4e6e-8fde-ebc737942202",
+          "DTSTAMP": "20200109T074700Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Amir Tuladhar (2 yrs)",
+          "DTSTART;VALUE=DATE": "20200625",
+          "SUMMARY": "Amir Tuladhar (2 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "b028738f-1c42-47a0-928c-7b2b7c7bc37a",
+          "DTSTAMP": "20200109T074700Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Derek Edwards (2 yrs)",
+          "DTSTART;VALUE=DATE": "20200625",
+          "SUMMARY": "Derek Edwards (2 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "5a53a17f-a218-47ee-8a75-0bbe5a75fe88",
+          "DTSTAMP": "20200109T074700Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Samuel Olocho (3 yrs)",
+          "DTSTART;VALUE=DATE": "20200626",
+          "SUMMARY": "Samuel Olocho (3 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "9be67d16-b462-475f-827c-fb8820a2821e",
+          "DTSTAMP": "20200109T074700Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Lauren Cowan (2 yrs)",
+          "DTSTART;VALUE=DATE": "20200627",
+          "SUMMARY": "Lauren Cowan (2 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "30d9c0de-50a3-4788-8962-24aa041943a3",
+          "DTSTAMP": "20200109T074700Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Samit Ghimire (4 yrs)",
+          "DTSTART;VALUE=DATE": "20200701",
+          "SUMMARY": "Samit Ghimire (4 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "0c1becac-eea3-4512-a7fe-4be9640516c4",
+          "DTSTAMP": "20200109T074700Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Emmily Lwamba (6 yrs)",
+          "DTSTART;VALUE=DATE": "20200701",
+          "SUMMARY": "Emmily Lwamba (6 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "339cfc26-1d46-4195-b936-167477d31b86",
+          "DTSTAMP": "20200109T074700Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Sam Karim (1 yr)",
+          "DTSTART;VALUE=DATE": "20200701",
+          "SUMMARY": "Sam Karim (1 yr)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "2e751990-63b6-4841-b4f1-9f3d81e293f2",
+          "DTSTAMP": "20200109T074700Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Eve Kinyua (1 yr)",
+          "DTSTART;VALUE=DATE": "20200701",
+          "SUMMARY": "Eve Kinyua (1 yr)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "7178ff17-4d14-4b3c-89f5-1874700a963c",
+          "DTSTAMP": "20200109T074700Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Vincent Otieno (2 yrs)",
+          "DTSTART;VALUE=DATE": "20200702",
+          "SUMMARY": "Vincent Otieno (2 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "f41a3e9f-deea-4ada-a237-00b3b9a5ce5f",
+          "DTSTAMP": "20200109T074700Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Kritika Thapa (2 yrs)",
+          "DTSTART;VALUE=DATE": "20200702",
+          "SUMMARY": "Kritika Thapa (2 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "085835af-915b-4227-ab97-1f6f9725eedd",
+          "DTSTAMP": "20200109T074700Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Kennedy Njoroge (2 yrs)",
+          "DTSTART;VALUE=DATE": "20200702",
+          "SUMMARY": "Kennedy Njoroge (2 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "844ba122-9a9f-4d8a-bf1d-baddee3318e2",
+          "DTSTAMP": "20200109T074700Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Diya Shrestha (2 yrs)",
+          "DTSTART;VALUE=DATE": "20200702",
+          "SUMMARY": "Diya Shrestha (2 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "75201949-c060-47ec-ae5d-4cea61d5f5cb",
+          "DTSTAMP": "20200109T074700Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Chuma Mutua (2 yrs)",
+          "DTSTART;VALUE=DATE": "20200702",
+          "SUMMARY": "Chuma Mutua (2 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "bf322389-99ac-4545-9ec4-a382544919c6",
+          "DTSTAMP": "20200109T074700Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Bonney Mwanda (2 yrs)",
+          "DTSTART;VALUE=DATE": "20200702",
+          "SUMMARY": "Bonney Mwanda (2 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "9ea11166-52e1-491b-b787-3e2c3e6e6258",
+          "DTSTAMP": "20200109T074700Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Linda Memo Cheruiyot (1 yr)",
+          "DTSTART;VALUE=DATE": "20200702",
+          "SUMMARY": "Linda Memo Cheruiyot (1 yr)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "7e7a2697-3401-4f58-9051-57ad3274d551",
+          "DTSTAMP": "20200109T074700Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Michael Opinde (3 yrs)",
+          "DTSTART;VALUE=DATE": "20200703",
+          "SUMMARY": "Michael Opinde (3 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "61c14151-6b66-4da0-b813-66fb89d34d4d",
+          "DTSTAMP": "20200109T074700Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Moses Abwor (3 yrs)",
+          "DTSTART;VALUE=DATE": "20200703",
+          "SUMMARY": "Moses Abwor (3 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "cce8fbff-35ac-4363-8520-80727a3a5206",
+          "DTSTAMP": "20200109T074700Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Anne Mbugua (3 yrs)",
+          "DTSTART;VALUE=DATE": "20200703",
+          "SUMMARY": "Anne Mbugua (3 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "ca202918-74a5-4827-98bf-466d98ac50c0",
+          "DTSTAMP": "20200109T074701Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Boniface Mbiu (3 yrs)",
+          "DTSTART;VALUE=DATE": "20200703",
+          "SUMMARY": "Boniface Mbiu (3 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "fdb40b5d-b37d-4935-8873-815fa3533e85",
+          "DTSTAMP": "20200109T074701Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Josphat Masya (3 yrs)",
+          "DTSTART;VALUE=DATE": "20200703",
+          "SUMMARY": "Josphat Masya (3 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "2f4c502c-758a-43fb-b362-7f501b128013",
+          "DTSTAMP": "20200109T074701Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Nicholas Kiamba (3 yrs)",
+          "DTSTART;VALUE=DATE": "20200703",
+          "SUMMARY": "Nicholas Kiamba (3 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "8d294249-759d-4283-ae19-f07c209c485b",
+          "DTSTAMP": "20200109T074701Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Colin Kennedy (1 yr)",
+          "DTSTART;VALUE=DATE": "20200703",
+          "SUMMARY": "Colin Kennedy (1 yr)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "21e23137-b8af-4a32-b65a-10199a737d0d",
+          "DTSTAMP": "20200109T074701Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Kristi Martin (1 yr)",
+          "DTSTART;VALUE=DATE": "20200708",
+          "SUMMARY": "Kristi Martin (1 yr)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "07b35127-9c6d-4de2-a0ea-2f16a01471a1",
+          "DTSTAMP": "20200109T074701Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Stewart Stokes (1 yr)",
+          "DTSTART;VALUE=DATE": "20200708",
+          "SUMMARY": "Stewart Stokes (1 yr)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "8c2afc4c-0c0a-478d-8a80-3b7886435bb2",
+          "DTSTAMP": "20200109T074701Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Stephen Lloyd (1 yr)",
+          "DTSTART;VALUE=DATE": "20200708",
+          "SUMMARY": "Stephen Lloyd (1 yr)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "23fa7ae6-bbd7-492d-bde8-e41d86c3c81b",
+          "DTSTAMP": "20200109T074701Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Merina Subba (1 yr)",
+          "DTSTART;VALUE=DATE": "20200708",
+          "SUMMARY": "Merina Subba (1 yr)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "4e393fb2-5447-46dd-99f3-1e9f3413489a",
+          "DTSTAMP": "20200109T074701Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Kreeti Modi (1 yr)",
+          "DTSTART;VALUE=DATE": "20200708",
+          "SUMMARY": "Kreeti Modi (1 yr)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "a6a981c4-b7b3-4544-969b-152a7132c5b3",
+          "DTSTAMP": "20200109T074701Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Gita Karki (7 yrs)",
+          "DTSTART;VALUE=DATE": "20200708",
+          "SUMMARY": "Gita Karki (7 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "62991a1d-7bde-4334-afbc-a1d435e181e0",
+          "DTSTAMP": "20200109T074701Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Kenny Masambaka (2 yrs)",
+          "DTSTART;VALUE=DATE": "20200709",
+          "SUMMARY": "Kenny Masambaka (2 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "10842606-22d5-4028-9378-8d4fda2c2809",
+          "DTSTAMP": "20200109T074701Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Rahie Chege (2 yrs)",
+          "DTSTART;VALUE=DATE": "20200709",
+          "SUMMARY": "Rahie Chege (2 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "1d2f0747-dda4-42c6-801d-39d7d75a5bdc",
+          "DTSTAMP": "20200109T074701Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Karen Kazi (1 yr)",
+          "DTSTART;VALUE=DATE": "20200709",
+          "SUMMARY": "Karen Kazi (1 yr)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "15c5ef3e-d0f6-41c0-9880-d706c012c0b6",
+          "DTSTAMP": "20200109T074701Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Sheilah Wanjiru (2 yrs)",
+          "DTSTART;VALUE=DATE": "20200709",
+          "SUMMARY": "Sheilah Wanjiru (2 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "c5ab104f-5f19-4c23-af41-a0bf442ecb6b",
+          "DTSTAMP": "20200109T074701Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Shriya Shrestha (2 yrs)",
+          "DTSTART;VALUE=DATE": "20200709",
+          "SUMMARY": "Shriya Shrestha (2 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "663c1288-0add-42d5-9702-f80bcf6109aa",
+          "DTSTAMP": "20200109T074701Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Tim Pham (2 yrs)",
+          "DTSTART;VALUE=DATE": "20200709",
+          "SUMMARY": "Tim Pham (2 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "3a5f7c8b-6a66-49af-9b1a-81f58361840e",
+          "DTSTAMP": "20200109T074701Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Zawadi Arasa (2 yrs)",
+          "DTSTART;VALUE=DATE": "20200709",
+          "SUMMARY": "Zawadi Arasa (2 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "ee9378c1-430e-424a-a90c-102040d9dbff",
+          "DTSTAMP": "20200109T074701Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Naomi Langat (2 yrs)",
+          "DTSTART;VALUE=DATE": "20200709",
+          "SUMMARY": "Naomi Langat (2 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "18839196-5849-4a7b-8dcc-4a93cfbe9e44",
+          "DTSTAMP": "20200109T074701Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Elvis Lukalo (2 yrs)",
+          "DTSTART;VALUE=DATE": "20200709",
+          "SUMMARY": "Elvis Lukalo (2 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "be53a357-a813-404b-bcf4-e78624a35f13",
+          "DTSTAMP": "20200109T074701Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Mike Riegel (3 yrs)",
+          "DTSTART;VALUE=DATE": "20200710",
+          "SUMMARY": "Mike Riegel (3 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "9fead4ad-ac04-4536-9ec1-0d4914dcb7aa",
+          "DTSTAMP": "20200109T074701Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Ben Halstead (2 yrs)",
+          "DTSTART;VALUE=DATE": "20200711",
+          "SUMMARY": "Ben Halstead (2 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "4b83f20b-9e77-4b88-a21e-2b9c2d49b62f",
+          "DTSTAMP": "20200109T074701Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Michelle Henney (2 yrs)",
+          "DTSTART;VALUE=DATE": "20200711",
+          "SUMMARY": "Michelle Henney (2 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "12f04b08-4309-4b71-bb07-28396c427b82",
+          "DTSTAMP": "20200109T074701Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Sam Sundin (2 yrs)",
+          "DTSTART;VALUE=DATE": "20200711",
+          "SUMMARY": "Sam Sundin (2 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "aa41dd52-b835-42e0-b47f-a40c7bca6527",
+          "DTSTAMP": "20200109T074701Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Cary Smith (7 yrs)",
+          "DTSTART;VALUE=DATE": "20200715",
+          "SUMMARY": "Cary Smith (7 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "965c4e2c-a939-4dff-baff-6ef23ed52cfd",
+          "DTSTAMP": "20200109T074701Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Billy Labatt (2 yrs)",
+          "DTSTART;VALUE=DATE": "20200716",
+          "SUMMARY": "Billy Labatt (2 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "06797799-edd1-4aa5-9909-2618a30e090e",
+          "DTSTAMP": "20200109T074701Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Frank Sarnie (2 yrs)",
+          "DTSTART;VALUE=DATE": "20200716",
+          "SUMMARY": "Frank Sarnie (2 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "a937a1cf-d840-4563-ab03-92586b5145cf",
+          "DTSTAMP": "20200109T074701Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Matt Magar (5 yrs)",
+          "DTSTART;VALUE=DATE": "20200716",
+          "SUMMARY": "Matt Magar (5 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "c11ac7bd-0f6e-4609-9d65-56f7763304e5",
+          "DTSTAMP": "20200109T074701Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Jerry Wigan (2 yrs)",
+          "DTSTART;VALUE=DATE": "20200716",
+          "SUMMARY": "Jerry Wigan (2 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "ca8bc479-5425-4f40-b2ab-29dddaf1ec10",
+          "DTSTAMP": "20200109T074701Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Sabita Neupane (2 yrs)",
+          "DTSTART;VALUE=DATE": "20200716",
+          "SUMMARY": "Sabita Neupane (2 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "d1f5826a-09c9-4e1a-845e-42002b754d61",
+          "DTSTAMP": "20200109T074701Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Subas Regmi (2 yrs)",
+          "DTSTART;VALUE=DATE": "20200716",
+          "SUMMARY": "Subas Regmi (2 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "ac2da921-8530-49c5-a3be-64e062ea046b",
+          "DTSTAMP": "20200109T074701Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Dinesh Ranabhat (2 yrs)",
+          "DTSTART;VALUE=DATE": "20200716",
+          "SUMMARY": "Dinesh Ranabhat (2 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "f2e5e62b-380a-4688-bf28-1d744ba9cd8f",
+          "DTSTAMP": "20200109T074701Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Patricia Kimani (3 yrs)",
+          "DTSTART;VALUE=DATE": "20200717",
+          "SUMMARY": "Patricia Kimani (3 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "2c4b0129-a9be-4b4e-b13b-70dfdcb5a9dc",
+          "DTSTAMP": "20200109T074701Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Brian Wandere (2 yrs)",
+          "DTSTART;VALUE=DATE": "20200718",
+          "SUMMARY": "Brian Wandere (2 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "a3f08730-366b-4443-80d1-e2128834f0c1",
+          "DTSTAMP": "20200109T074701Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Maureen Murrey (2 yrs)",
+          "DTSTART;VALUE=DATE": "20200723",
+          "SUMMARY": "Maureen Murrey (2 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "36292f19-3495-4596-bf07-098b5b6e3e49",
+          "DTSTAMP": "20200109T074701Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Sujesh Amatya (2 yrs)",
+          "DTSTART;VALUE=DATE": "20200723",
+          "SUMMARY": "Sujesh Amatya (2 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "4e2aac0a-4653-4261-9b67-98bbeb72bbba",
+          "DTSTAMP": "20200109T074701Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Chris Ombati (2 yrs)",
+          "DTSTART;VALUE=DATE": "20200723",
+          "SUMMARY": "Chris Ombati (2 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "a31bb48c-0af2-46dc-8df3-23ddced3f741",
+          "DTSTAMP": "20200109T074701Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Anand Madhvani (2 yrs)",
+          "DTSTART;VALUE=DATE": "20200723",
+          "SUMMARY": "Anand Madhvani (2 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "c49427a4-9cc8-4d2b-9adc-28664324b01f",
+          "DTSTAMP": "20200109T074701Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Stephen Mutz (2 yrs)",
+          "DTSTART;VALUE=DATE": "20200730",
+          "SUMMARY": "Stephen Mutz (2 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "68b70722-082e-4a0d-b5b8-d1033d4b7a72",
+          "DTSTAMP": "20200109T074701Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Chris Locke-Wheaton (2 yrs)",
+          "DTSTART;VALUE=DATE": "20200730",
+          "SUMMARY": "Chris Locke-Wheaton (2 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "ab45116f-bff9-4e08-9b95-1e1ed8facfbd",
+          "DTSTAMP": "20200109T074701Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Biswa Giri (2 yrs)",
+          "DTSTART;VALUE=DATE": "20200801",
+          "SUMMARY": "Biswa Giri (2 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "349304ea-7136-4763-970f-2c6e5de1cd15",
+          "DTSTAMP": "20200109T074701Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Hellen Maria Wandera (2 yrs)",
+          "DTSTART;VALUE=DATE": "20200801",
+          "SUMMARY": "Hellen Maria Wandera (2 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "6ff8eace-aef6-4db2-a165-01a35f661a1a",
+          "DTSTAMP": "20200109T074701Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Janet Kamanga (2 yrs)",
+          "DTSTART;VALUE=DATE": "20200801",
+          "SUMMARY": "Janet Kamanga (2 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "15a069e5-e020-434e-b067-2f8959d46c06",
+          "DTSTAMP": "20200109T074701Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Jason Dean (2 yrs)",
+          "DTSTART;VALUE=DATE": "20200801",
+          "SUMMARY": "Jason Dean (2 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "c8de0d4d-51b1-466e-8cde-cddb79cfa27b",
+          "DTSTAMP": "20200109T074701Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Apurva Koirala (1 yr)",
+          "DTSTART;VALUE=DATE": "20200801",
+          "SUMMARY": "Apurva Koirala (1 yr)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "ab3e0da8-c72b-4e57-be06-bb8ad3a12f52",
+          "DTSTAMP": "20200109T074701Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Prajun Maharjan (1 yr)",
+          "DTSTART;VALUE=DATE": "20200801",
+          "SUMMARY": "Prajun Maharjan (1 yr)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "e87bcd4b-8b42-40f7-bb79-89b465e7780c",
+          "DTSTAMP": "20200109T074701Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for JB Beardsley (5 yrs)",
+          "DTSTART;VALUE=DATE": "20200801",
+          "SUMMARY": "JB Beardsley (5 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "8921baa0-4f65-4347-8340-e058313158cb",
+          "DTSTAMP": "20200109T074701Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Safal Joshi (10 yrs)",
+          "DTSTART;VALUE=DATE": "20200802",
+          "SUMMARY": "Safal Joshi (10 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "89989276-c47d-4861-a4e3-e0d4951c2e71",
+          "DTSTAMP": "20200109T074701Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Jay Bratton (7 yrs)",
+          "DTSTART;VALUE=DATE": "20200805",
+          "SUMMARY": "Jay Bratton (7 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "4971e7f0-f105-4f0e-8198-de9f48d79a79",
+          "DTSTAMP": "20200109T074701Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Sarina Sthapit (1 yr)",
+          "DTSTART;VALUE=DATE": "20200805",
+          "SUMMARY": "Sarina Sthapit (1 yr)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "680bc519-66d5-45c5-b4fb-5e3057eb68e2",
+          "DTSTAMP": "20200109T074701Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Wanjiku Wambugu (2 yrs)",
+          "DTSTART;VALUE=DATE": "20200806",
+          "SUMMARY": "Wanjiku Wambugu (2 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "e0a4b339-8578-49b9-bff0-5ccc5ffb523d",
+          "DTSTAMP": "20200109T074701Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Gaurav Rana (3 yrs)",
+          "DTSTART;VALUE=DATE": "20200807",
+          "SUMMARY": "Gaurav Rana (3 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "56446314-e231-4b4f-bf7d-ac35af7bc6a5",
+          "DTSTAMP": "20200109T074701Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for John Wagler (2 yrs)",
+          "DTSTART;VALUE=DATE": "20200807",
+          "SUMMARY": "John Wagler (2 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "250690fb-b915-4bd0-9d4d-dfc69e79b7d2",
+          "DTSTAMP": "20200109T074701Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Ojaswi Sharma (3 yrs)",
+          "DTSTART;VALUE=DATE": "20200807",
+          "SUMMARY": "Ojaswi Sharma (3 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "f208bc24-87c1-4ba5-9365-c2666c870e85",
+          "DTSTAMP": "20200109T074701Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Nyambura Lukale (3 yrs)",
+          "DTSTART;VALUE=DATE": "20200807",
+          "SUMMARY": "Nyambura Lukale (3 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "428ec9c8-234a-4748-bc46-abde61185630",
+          "DTSTAMP": "20200109T074701Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Paul Christianson (6 yrs)",
+          "DTSTART;VALUE=DATE": "20200811",
+          "SUMMARY": "Paul Christianson (6 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "302eccc7-90e4-40f1-a2ab-59ab0dca7d96",
+          "DTSTAMP": "20200109T074701Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Anjeela Sthapit (2 yrs)",
+          "DTSTART;VALUE=DATE": "20200813",
+          "SUMMARY": "Anjeela Sthapit (2 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "15303bb1-d712-4e79-8e5d-64a5d10bcae2",
+          "DTSTAMP": "20200109T074701Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Lucy Ndung'u (3 yrs)",
+          "DTSTART;VALUE=DATE": "20200814",
+          "SUMMARY": "Lucy Ndung'u (3 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "1d9f9636-36b4-4eeb-a649-2df5c20545e8",
+          "DTSTAMP": "20200109T074701Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Anish Khatri KC (1 yr)",
+          "DTSTART;VALUE=DATE": "20200815",
+          "SUMMARY": "Anish Khatri KC (1 yr)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "f3e60f2d-ea58-4278-a174-6ae0e77d99c4",
+          "DTSTAMP": "20200109T074701Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Abhishek Shrestha (5 yrs)",
+          "DTSTART;VALUE=DATE": "20200817",
+          "SUMMARY": "Abhishek Shrestha (5 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "4fe44f91-e09d-4e40-94ab-fc279c3764f5",
+          "DTSTAMP": "20200109T074701Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for David Groves (2 yrs)",
+          "DTSTART;VALUE=DATE": "20200820",
+          "SUMMARY": "David Groves (2 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "fbf6304e-3431-49e4-aafc-4e4ebb3ce78c",
+          "DTSTAMP": "20200109T074701Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Smarika Shrestha (2 yrs)",
+          "DTSTART;VALUE=DATE": "20200820",
+          "SUMMARY": "Smarika Shrestha (2 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "7ea73976-505f-4840-8601-7d79db226c55",
+          "DTSTAMP": "20200109T074701Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Jesse Hogg (2 yrs)",
+          "DTSTART;VALUE=DATE": "20200820",
+          "SUMMARY": "Jesse Hogg (2 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "9af44502-2a60-4fbf-990b-9efd8fdde992",
+          "DTSTAMP": "20200109T074701Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Sunil Adhikari (3 yrs)",
+          "DTSTART;VALUE=DATE": "20200821",
+          "SUMMARY": "Sunil Adhikari (3 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "da3b58a2-0cd5-4bfe-ba12-fab53d68714f",
+          "DTSTAMP": "20200109T074701Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Durga Bidari (6 yrs)",
+          "DTSTART;VALUE=DATE": "20200825",
+          "SUMMARY": "Durga Bidari (6 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "d97155ce-0595-45f3-8e1a-fc925cc0fdb8",
+          "DTSTAMP": "20200109T074701Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Anjeela Maharjan (1 yr)",
+          "DTSTART;VALUE=DATE": "20200826",
+          "SUMMARY": "Anjeela Maharjan (1 yr)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "4bc11cf1-c917-411c-b154-3c982e5a6b61",
+          "DTSTAMP": "20200109T074701Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Nanette George (3 yrs)",
+          "DTSTART;VALUE=DATE": "20200828",
+          "SUMMARY": "Nanette George (3 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "5ef9cf89-42fc-41c0-9ed7-aa628c48152a",
+          "DTSTAMP": "20200109T074701Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Steve Wainaina (3 yrs)",
+          "DTSTART;VALUE=DATE": "20200828",
+          "SUMMARY": "Steve Wainaina (3 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "25fc6149-bf01-45b2-bd44-f6267240db97",
+          "DTSTAMP": "20200109T074701Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Kailash Badu (9 yrs)",
+          "DTSTART;VALUE=DATE": "20200901",
+          "SUMMARY": "Kailash Badu (9 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "e4bacd73-82d8-4158-8c2d-42edd61f5956",
+          "DTSTAMP": "20200109T074701Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Aakar Ghimire (9 yrs)",
+          "DTSTART;VALUE=DATE": "20200901",
+          "SUMMARY": "Aakar Ghimire (9 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "ff7428a0-2628-4948-b6b8-99a0d0c22d74",
+          "DTSTAMP": "20200109T074701Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Sagun Khanal (4 yrs)",
+          "DTSTART;VALUE=DATE": "20200901",
+          "SUMMARY": "Sagun Khanal (4 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "900a3364-0e7a-4e96-90ef-4482916bdc56",
+          "DTSTAMP": "20200109T074701Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Jay Ngugi (1 yr)",
+          "DTSTART;VALUE=DATE": "20200902",
+          "SUMMARY": "Jay Ngugi (1 yr)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "a43be98c-8960-4b1c-a545-ac1f06adca26",
+          "DTSTAMP": "20200109T074701Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Dome Dome (1 yr)",
+          "DTSTART;VALUE=DATE": "20200902",
+          "SUMMARY": "Dome Dome (1 yr)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "2ea79499-e46a-441d-90ef-74360b24f187",
+          "DTSTAMP": "20200109T074701Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Balakrishna Paudel (8 yrs)",
+          "DTSTART;VALUE=DATE": "20200903",
+          "SUMMARY": "Balakrishna Paudel (8 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "3c2a3d69-a529-4c29-9bef-cb9fe49331de",
+          "DTSTAMP": "20200109T074701Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Aastha KC (2 yrs)",
+          "DTSTART;VALUE=DATE": "20200903",
+          "SUMMARY": "Aastha KC (2 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "85ac1f1c-f11a-4a5b-a684-798543d876a7",
+          "DTSTAMP": "20200109T074701Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Danson Wainaina (2 yrs)",
+          "DTSTART;VALUE=DATE": "20200903",
+          "SUMMARY": "Danson Wainaina (2 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "7e4e70eb-3025-4180-86d6-80b16cc63780",
+          "DTSTAMP": "20200109T074701Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Krishna Chalise (2 yrs)",
+          "DTSTART;VALUE=DATE": "20200903",
+          "SUMMARY": "Krishna Chalise (2 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "0a6a3c7e-97e2-4649-bf98-a9278a8b5c82",
+          "DTSTAMP": "20200109T074701Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Mercy Mandela (2 yrs)",
+          "DTSTART;VALUE=DATE": "20200903",
+          "SUMMARY": "Mercy Mandela (2 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "5e9d438b-8553-497f-b954-81ac39f2e0cd",
+          "DTSTAMP": "20200109T074701Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Ravi Thapa (2 yrs)",
+          "DTSTART;VALUE=DATE": "20200903",
+          "SUMMARY": "Ravi Thapa (2 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "b39e6782-0da7-4647-b889-c40ca3567e35",
+          "DTSTAMP": "20200109T074701Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Sylvie Waitumbi (2 yrs)",
+          "DTSTART;VALUE=DATE": "20200903",
+          "SUMMARY": "Sylvie Waitumbi (2 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "e28f3c9a-22c2-49ac-a7e1-01979fcd14b0",
+          "DTSTAMP": "20200109T074701Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Bipin Thapa (3 yrs)",
+          "DTSTART;VALUE=DATE": "20200904",
+          "SUMMARY": "Bipin Thapa (3 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "881b280e-7c6a-407a-ba69-b924251a7e08",
+          "DTSTAMP": "20200109T074701Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Andy Minshall (1 yr)",
+          "DTSTART;VALUE=DATE": "20200904",
+          "SUMMARY": "Andy Minshall (1 yr)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "5634ba8a-a0e7-4559-ba3f-973d46640f3b",
+          "DTSTAMP": "20200109T074701Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Manju Maharjan (3 yrs)",
+          "DTSTART;VALUE=DATE": "20200904",
+          "SUMMARY": "Manju Maharjan (3 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "68095156-ecfd-43d0-a0a2-43333001ad66",
+          "DTSTAMP": "20200109T074701Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Keisha McKenzie (2 yrs)",
+          "DTSTART;VALUE=DATE": "20200904",
+          "SUMMARY": "Keisha McKenzie (2 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "9f29aeea-6427-47b8-a60f-481dd41028d7",
+          "DTSTAMP": "20200109T074701Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Bishakha Pande (1 yr)",
+          "DTSTART;VALUE=DATE": "20200909",
+          "SUMMARY": "Bishakha Pande (1 yr)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "92090b44-2948-4545-9f5e-75c9d6977c0a",
+          "DTSTAMP": "20200109T074701Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Erika Gajurel (1 yr)",
+          "DTSTART;VALUE=DATE": "20200909",
+          "SUMMARY": "Erika Gajurel (1 yr)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "e32a663b-f528-4198-81ce-93b2c29bcd17",
+          "DTSTAMP": "20200109T074701Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Arpit Chapagain (1 yr)",
+          "DTSTART;VALUE=DATE": "20200909",
+          "SUMMARY": "Arpit Chapagain (1 yr)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "94f670a5-046e-48bf-acf5-d8ab7abd14c4",
+          "DTSTAMP": "20200109T074701Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Abhinav Shrestha (1 yr)",
+          "DTSTART;VALUE=DATE": "20200909",
+          "SUMMARY": "Abhinav Shrestha (1 yr)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "3ee3f3e3-510c-4a7f-8ae4-cdf10df06a38",
+          "DTSTAMP": "20200109T074701Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Bidhya Rimal (1 yr)",
+          "DTSTART;VALUE=DATE": "20200909",
+          "SUMMARY": "Bidhya Rimal (1 yr)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "279ad757-3baa-406e-ad42-872fb0b7204b",
+          "DTSTAMP": "20200109T074701Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Roberta Ajulo (2 yrs)",
+          "DTSTART;VALUE=DATE": "20200910",
+          "SUMMARY": "Roberta Ajulo (2 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "cfc40b0b-db3a-493a-a456-89e8dd7889e5",
+          "DTSTAMP": "20200109T074701Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Anuj Shrestha (2 yrs)",
+          "DTSTART;VALUE=DATE": "20200910",
+          "SUMMARY": "Anuj Shrestha (2 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "ed649d67-7a37-4f45-aebb-628ab9d46786",
+          "DTSTAMP": "20200109T074701Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Sumitra Karki (9 yrs)",
+          "DTSTART;VALUE=DATE": "20200912",
+          "SUMMARY": "Sumitra Karki (9 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "fffab6ec-e9b3-477d-9268-3a94bcb0e099",
+          "DTSTAMP": "20200109T074701Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Rebicca Budha (2 yrs)",
+          "DTSTART;VALUE=DATE": "20200913",
+          "SUMMARY": "Rebicca Budha (2 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "4b4be838-2bc1-45a5-8676-7b29723998a6",
+          "DTSTAMP": "20200109T074701Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Shristy Maharjan (5 yrs)",
+          "DTSTART;VALUE=DATE": "20200914",
+          "SUMMARY": "Shristy Maharjan (5 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "b248261d-066a-46b0-b779-70323f117e2f",
+          "DTSTAMP": "20200109T074701Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for John Maharjan (5 yrs)",
+          "DTSTART;VALUE=DATE": "20200914",
+          "SUMMARY": "John Maharjan (5 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "04d82f75-a8fa-4fd6-bab0-624a44f2f934",
+          "DTSTAMP": "20200109T074701Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for John Snowden (8 yrs)",
+          "DTSTART;VALUE=DATE": "20200915",
+          "SUMMARY": "John Snowden (8 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "b32371a5-0e8e-4dc6-bc77-3021a9f21eef",
+          "DTSTAMP": "20200109T074701Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Aure Vatinel (1 yr)",
+          "DTSTART;VALUE=DATE": "20200916",
+          "SUMMARY": "Aure Vatinel (1 yr)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "e299cba6-2072-41f9-bc52-5cc475b3ed6f",
+          "DTSTAMP": "20200109T074701Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Lochan Thapa (2 yrs)",
+          "DTSTART;VALUE=DATE": "20200917",
+          "SUMMARY": "Lochan Thapa (2 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "cb1b5eb7-6f5a-41b9-84a1-9eb5ba2bcff2",
+          "DTSTAMP": "20200109T074701Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Biju G.C (8 yrs)",
+          "DTSTART;VALUE=DATE": "20200917",
+          "SUMMARY": "Biju G.C (8 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "cdb3da95-262c-48d1-a48f-da8489db1723",
+          "DTSTAMP": "20200109T074701Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Eric Muriuki (3 yrs)",
+          "DTSTART;VALUE=DATE": "20200918",
+          "SUMMARY": "Eric Muriuki (3 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "7b54a2d2-2084-4105-a8c0-ae52c7766ed5",
+          "DTSTAMP": "20200109T074701Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Karoli Oile (3 yrs)",
+          "DTSTART;VALUE=DATE": "20200918",
+          "SUMMARY": "Karoli Oile (3 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "29b9efef-39f0-4071-a25e-9a2d021e97f3",
+          "DTSTAMP": "20200109T074701Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Sumesh Karki (3 yrs)",
+          "DTSTART;VALUE=DATE": "20200918",
+          "SUMMARY": "Sumesh Karki (3 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "bcb20618-57b2-4567-a467-c72ecedb1ee5",
+          "DTSTAMP": "20200109T074701Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Courtney Wilson (6 yrs)",
+          "DTSTART;VALUE=DATE": "20200922",
+          "SUMMARY": "Courtney Wilson (6 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "fe7fd09d-0021-402b-a76d-9ef781b6827d",
+          "DTSTAMP": "20200109T074701Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Harry Rotich (1 yr)",
+          "DTSTART;VALUE=DATE": "20200923",
+          "SUMMARY": "Harry Rotich (1 yr)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "b31f1814-269c-4b16-b350-217729b81a88",
+          "DTSTAMP": "20200109T074701Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Astha Joshi (2 yrs)",
+          "DTSTART;VALUE=DATE": "20200924",
+          "SUMMARY": "Astha Joshi (2 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "f60c9676-b589-4767-93a6-d06e5c3a3c5f",
+          "DTSTAMP": "20200109T074701Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Bikram Dhakal (2 yrs)",
+          "DTSTART;VALUE=DATE": "20200924",
+          "SUMMARY": "Bikram Dhakal (2 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "414f48fd-8511-46af-b096-daf5ad0352a6",
+          "DTSTAMP": "20200109T074701Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Balman Rawat (2 yrs)",
+          "DTSTART;VALUE=DATE": "20200925",
+          "SUMMARY": "Balman Rawat (2 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "ab91891c-b19e-4da5-a2d4-237ffd30d612",
+          "DTSTAMP": "20200109T074701Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Hope Makwali (5 yrs)",
+          "DTSTART;VALUE=DATE": "20200928",
+          "SUMMARY": "Hope Makwali (5 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "b444f2b2-0af8-4b3a-bf93-c53420d663aa",
+          "DTSTAMP": "20200109T074701Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Tony Oketch (5 yrs)",
+          "DTSTART;VALUE=DATE": "20200929",
+          "SUMMARY": "Tony Oketch (5 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "37d76efe-5572-4bcc-abf3-6c270e2f6ee9",
+          "DTSTAMP": "20200109T074701Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Suraz Shahi (2 yrs)",
+          "DTSTART;VALUE=DATE": "20201001",
+          "SUMMARY": "Suraz Shahi (2 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "3b21b4c5-1280-45ab-a266-6a7495689716",
+          "DTSTAMP": "20200109T074701Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Jacob Kimani (2 yrs)",
+          "DTSTART;VALUE=DATE": "20201001",
+          "SUMMARY": "Jacob Kimani (2 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "661d6c4a-f63c-4241-8ed4-4378b8408ecd",
+          "DTSTAMP": "20200109T074701Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Rhoda Muthoni (2 yrs)",
+          "DTSTART;VALUE=DATE": "20201001",
+          "SUMMARY": "Rhoda Muthoni (2 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "f77af503-6834-46c9-b14b-52620f7613ee",
+          "DTSTAMP": "20200109T074701Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Sugam Timalsina (2 yrs)",
+          "DTSTART;VALUE=DATE": "20201001",
+          "SUMMARY": "Sugam Timalsina (2 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "112a7820-3b60-40a4-b3e0-73acba33639d",
+          "DTSTAMP": "20200109T074701Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Tej Dattani (1 yr)",
+          "DTSTART;VALUE=DATE": "20201001",
+          "SUMMARY": "Tej Dattani (1 yr)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "1f5301f3-c42a-4bcf-842c-f271e1c22bde",
+          "DTSTAMP": "20200109T074701Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Emma Adam (1 yr)",
+          "DTSTART;VALUE=DATE": "20201001",
+          "SUMMARY": "Emma Adam (1 yr)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "3d5e1203-26e5-49d1-a693-c1d9c1722fd4",
+          "DTSTAMP": "20200109T074701Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Sujit Maharjan (2 yrs)",
+          "DTSTART;VALUE=DATE": "20201001",
+          "SUMMARY": "Sujit Maharjan (2 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "5f56443f-f391-46a3-a65f-d813153e6366",
+          "DTSTAMP": "20200109T074701Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Sumit Rai (2 yrs)",
+          "DTSTART;VALUE=DATE": "20201001",
+          "SUMMARY": "Sumit Rai (2 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "adaec036-8933-454d-b007-876a3d9bf757",
+          "DTSTAMP": "20200109T074701Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Suraj Shahi (2 yrs)",
+          "DTSTART;VALUE=DATE": "20201001",
+          "SUMMARY": "Suraj Shahi (2 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "a0d9c2f3-f0e6-4beb-9ffb-a3e3a39fd4dc",
+          "DTSTAMP": "20200109T074701Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Nadya Issa (3 yrs)",
+          "DTSTART;VALUE=DATE": "20201002",
+          "SUMMARY": "Nadya Issa (3 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "27edaab2-5a8d-4156-a0b9-d73d02b0b6b1",
+          "DTSTAMP": "20200109T074701Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Sanjay Joshi (7 yrs)",
+          "DTSTART;VALUE=DATE": "20201004",
+          "SUMMARY": "Sanjay Joshi (7 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "5dcd0c48-f3f9-4895-b5fa-39d4498b82d7",
+          "DTSTAMP": "20200109T074701Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Mike Germano (1 yr)",
+          "DTSTART;VALUE=DATE": "20201007",
+          "SUMMARY": "Mike Germano (1 yr)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "98e167a6-4915-48cb-b517-694cfadeb786",
+          "DTSTAMP": "20200109T074701Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Brian Ngure (1 yr)",
+          "DTSTART;VALUE=DATE": "20201007",
+          "SUMMARY": "Brian Ngure (1 yr)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "5c1b90cf-973a-4ceb-b6c0-665d1e80faa6",
+          "DTSTAMP": "20200109T074701Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Courtney Carucci (2 yrs)",
+          "DTSTART;VALUE=DATE": "20201008",
+          "SUMMARY": "Courtney Carucci (2 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "d03c7971-f6c9-4122-98ff-4b85091a2475",
+          "DTSTAMP": "20200109T074701Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Bijay Budhathoki (2 yrs)",
+          "DTSTART;VALUE=DATE": "20201008",
+          "SUMMARY": "Bijay Budhathoki (2 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "e9100114-74e9-4c94-93ae-bffa91ff6b95",
+          "DTSTAMP": "20200109T074701Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Damien Norris (2 yrs)",
+          "DTSTART;VALUE=DATE": "20201008",
+          "SUMMARY": "Damien Norris (2 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "f9efb1b5-7177-4020-800e-ceea081ac48f",
+          "DTSTAMP": "20200109T074701Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Uma Makrati (3 yrs)",
+          "DTSTART;VALUE=DATE": "20201009",
+          "SUMMARY": "Uma Makrati (3 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "8b51f8d4-7490-40c4-8973-378ee75d8c77",
+          "DTSTAMP": "20200109T074701Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Aditya Karki (3 yrs)",
+          "DTSTART;VALUE=DATE": "20201009",
+          "SUMMARY": "Aditya Karki (3 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "fded67d4-0500-4575-bf6d-0f1ecb35b039",
+          "DTSTAMP": "20200109T074701Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Mike Mieszanek (2 yrs)",
+          "DTSTART;VALUE=DATE": "20201010",
+          "SUMMARY": "Mike Mieszanek (2 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "04d0abdf-0849-479c-bdc9-75dd6e08caf1",
+          "DTSTAMP": "20200109T074701Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Abhijet Pokhrel (1 yr)",
+          "DTSTART;VALUE=DATE": "20201014",
+          "SUMMARY": "Abhijet Pokhrel (1 yr)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "e3bac63e-f5e7-44d1-a221-46071c8ec3ec",
+          "DTSTAMP": "20200109T074701Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Kritish Pahi (1 yr)",
+          "DTSTART;VALUE=DATE": "20201014",
+          "SUMMARY": "Kritish Pahi (1 yr)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "f4f60206-cc26-4fb6-8edc-487f63a6abbc",
+          "DTSTAMP": "20200109T074701Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Swojeet Kayastha (1 yr)",
+          "DTSTART;VALUE=DATE": "20201014",
+          "SUMMARY": "Swojeet Kayastha (1 yr)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "971ccc29-be1e-4d02-9206-0ecdeaf074a3",
+          "DTSTAMP": "20200109T074701Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Pratikshya Sharma (1 yr)",
+          "DTSTART;VALUE=DATE": "20201014",
+          "SUMMARY": "Pratikshya Sharma (1 yr)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "e4618824-8ab9-473f-b8cb-aa0b260b3c9f",
+          "DTSTAMP": "20200109T074701Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Azad Silwal (2 yrs)",
+          "DTSTART;VALUE=DATE": "20201015",
+          "SUMMARY": "Azad Silwal (2 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "4d999b84-588a-4d71-9d54-ef45444b7f7d",
+          "DTSTAMP": "20200109T074701Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Nick Pagett (2 yrs)",
+          "DTSTART;VALUE=DATE": "20201015",
+          "SUMMARY": "Nick Pagett (2 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "a186177f-b42c-4151-9c47-911ab2a96577",
+          "DTSTAMP": "20200109T074701Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Elissa Hill (5 yrs)",
+          "DTSTART;VALUE=DATE": "20201019",
+          "SUMMARY": "Elissa Hill (5 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "d8a615ec-8faa-44ca-b9b6-47718d7d9c81",
+          "DTSTAMP": "20200109T074701Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Taylor Cash Hengsterman-Cash (1 yr)",
+          "DTSTART;VALUE=DATE": "20201021",
+          "SUMMARY": "Taylor Cash Hengsterman-Cash (1 yr)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "b75a30e6-3068-4345-89b2-79d2df1c1736",
+          "DTSTAMP": "20200109T074701Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Vera Okomo (3 yrs)",
+          "DTSTART;VALUE=DATE": "20201023",
+          "SUMMARY": "Vera Okomo (3 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "5e5b85ca-5022-4437-afe2-3a8f8df5d5d0",
+          "DTSTAMP": "20200109T074701Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Collins Thinwa (3 yrs)",
+          "DTSTART;VALUE=DATE": "20201023",
+          "SUMMARY": "Collins Thinwa (3 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "cef0fd54-1121-4172-8379-e59c0e2a3ffc",
+          "DTSTAMP": "20200109T074701Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Joseph Muiruri (4 yrs)",
+          "DTSTART;VALUE=DATE": "20201024",
+          "SUMMARY": "Joseph Muiruri (4 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "e2486053-849c-47ae-841f-eb2f4634d42d",
+          "DTSTAMP": "20200109T074701Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Doug Bailey (1 yr)",
+          "DTSTART;VALUE=DATE": "20201028",
+          "SUMMARY": "Doug Bailey (1 yr)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "6d2598a8-38e2-405b-8932-c254ac89c9fc",
+          "DTSTAMP": "20200109T074701Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Candace Herrell (1 yr)",
+          "DTSTART;VALUE=DATE": "20201028",
+          "SUMMARY": "Candace Herrell (1 yr)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "da638343-b8e2-41bc-8128-3cf6dbe5928e",
+          "DTSTAMP": "20200109T074701Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Kevin McElroy (1 yr)",
+          "DTSTART;VALUE=DATE": "20201028",
+          "SUMMARY": "Kevin McElroy (1 yr)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "49b28227-339a-46a4-a94c-aa6fad426e9c",
+          "DTSTAMP": "20200109T074701Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Jordan Ervin (2 yrs)",
+          "DTSTART;VALUE=DATE": "20201029",
+          "SUMMARY": "Jordan Ervin (2 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "2aedc5e2-aec8-45db-a238-e7e9d5a230e6",
+          "DTSTAMP": "20200109T074701Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Adam Rich (3 yrs)",
+          "DTSTART;VALUE=DATE": "20201030",
+          "SUMMARY": "Adam Rich (3 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "77b7f577-de4f-4542-b99a-f8e6ae9dab28",
+          "DTSTAMP": "20200109T074701Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Kelvin Makachia (3 yrs)",
+          "DTSTART;VALUE=DATE": "20201101",
+          "SUMMARY": "Kelvin Makachia (3 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "ec8c31b2-ec09-4136-958c-32df3ea13d64",
+          "DTSTAMP": "20200109T074701Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Shishir Paudyal (8 yrs)",
+          "DTSTART;VALUE=DATE": "20201101",
+          "SUMMARY": "Shishir Paudyal (8 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "fd179d54-19a2-460c-99d7-e7260684edc6",
+          "DTSTAMP": "20200109T074701Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Anthony Scalabrino (1 yr)",
+          "DTSTART;VALUE=DATE": "20201104",
+          "SUMMARY": "Anthony Scalabrino (1 yr)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "6e9a7d4d-3e21-4284-a500-f8f1f0920fc7",
+          "DTSTAMP": "20200109T074701Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Euroby Khyaguli (1 yr)",
+          "DTSTART;VALUE=DATE": "20201104",
+          "SUMMARY": "Euroby Khyaguli (1 yr)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "787715a0-bf38-4754-853b-f1b204841f2e",
+          "DTSTAMP": "20200109T074701Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Prabesh Devkota (1 yr)",
+          "DTSTART;VALUE=DATE": "20201104",
+          "SUMMARY": "Prabesh Devkota (1 yr)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "f5953dd9-9eb7-40c8-9ebd-fe347ffb1074",
+          "DTSTAMP": "20200109T074701Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Toby Bassford (1 yr)",
+          "DTSTART;VALUE=DATE": "20201104",
+          "SUMMARY": "Toby Bassford (1 yr)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "b9710e2b-4754-4e83-9530-12b8285b625c",
+          "DTSTAMP": "20200109T074701Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Shristi Kapali (7 yrs)",
+          "DTSTART;VALUE=DATE": "20201106",
+          "SUMMARY": "Shristi Kapali (7 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "87783e80-368f-411c-a746-96674d247705",
+          "DTSTAMP": "20200109T074701Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Robina Maharjan (8 yrs)",
+          "DTSTART;VALUE=DATE": "20201107",
+          "SUMMARY": "Robina Maharjan (8 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "f03b483f-33da-4115-b04e-ef6c1f227548",
+          "DTSTAMP": "20200109T074701Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Rumina Shakya (5 yrs)",
+          "DTSTART;VALUE=DATE": "20201109",
+          "SUMMARY": "Rumina Shakya (5 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "00cc850a-12e3-469f-b6ed-a6834e305919",
+          "DTSTAMP": "20200109T074701Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Jonathan Kluger (1 yr)",
+          "DTSTART;VALUE=DATE": "20201111",
+          "SUMMARY": "Jonathan Kluger (1 yr)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "2e8ab4eb-53c1-47c2-b2dc-fe73afd98bd1",
+          "DTSTAMP": "20200109T074701Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Samir Shrestha (1 yr)",
+          "DTSTART;VALUE=DATE": "20201111",
+          "SUMMARY": "Samir Shrestha (1 yr)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "4d7e562d-4803-4cee-a083-c8b34d05fb9a",
+          "DTSTAMP": "20200109T074701Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Chris Bhujel (8 yrs)",
+          "DTSTART;VALUE=DATE": "20201112",
+          "SUMMARY": "Chris Bhujel (8 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "c4123b04-aa11-4f34-a486-a5ebcf43d479",
+          "DTSTAMP": "20200109T074701Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Puru Tuladhar (2 yrs)",
+          "DTSTART;VALUE=DATE": "20201112",
+          "SUMMARY": "Puru Tuladhar (2 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "7c6ce794-8668-4dd4-ae7d-f93a84043cf0",
+          "DTSTAMP": "20200109T074701Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Dave Jennings (1 yr)",
+          "DTSTART;VALUE=DATE": "20201112",
+          "SUMMARY": "Dave Jennings (1 yr)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "b3cbbc03-8f20-42ab-8331-c7b3c6ae9ff1",
+          "DTSTAMP": "20200109T074701Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Prabhat Shrestha (1 yr)",
+          "DTSTART;VALUE=DATE": "20201113",
+          "SUMMARY": "Prabhat Shrestha (1 yr)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "e9f61404-64e4-4985-8af4-405c43be2080",
+          "DTSTAMP": "20200109T074701Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Aldrin Membo (3 yrs)",
+          "DTSTART;VALUE=DATE": "20201113",
+          "SUMMARY": "Aldrin Membo (3 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "e74afc88-aa4a-4262-ae7a-2d97d5ceb128",
+          "DTSTAMP": "20200109T074701Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Elijah Elkins (3 yrs)",
+          "DTSTART;VALUE=DATE": "20201113",
+          "SUMMARY": "Elijah Elkins (3 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "50762566-2e36-42c5-9508-fb8bf03a899f",
+          "DTSTAMP": "20200109T074701Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Maddie Doar (1 yr)",
+          "DTSTART;VALUE=DATE": "20201118",
+          "SUMMARY": "Maddie Doar (1 yr)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "3e3e6288-8058-40c6-9887-ff53107a58ba",
+          "DTSTAMP": "20200109T074701Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Matt Riemen (1 yr)",
+          "DTSTART;VALUE=DATE": "20201118",
+          "SUMMARY": "Matt Riemen (1 yr)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "2edb24d4-8fdf-4c86-a1b3-4f411a4c05ff",
+          "DTSTAMP": "20200109T074701Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Susan Joshi (8 yrs)",
+          "DTSTART;VALUE=DATE": "20201119",
+          "SUMMARY": "Susan Joshi (8 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "ba6b4e52-bfc9-45c8-837f-ce5aca0e713f",
+          "DTSTAMP": "20200109T074701Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Sameer Gautam (8 yrs)",
+          "DTSTART;VALUE=DATE": "20201119",
+          "SUMMARY": "Sameer Gautam (8 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "59dbd1c0-e02a-4e02-bb5b-d0b488cb3aa8",
+          "DTSTAMP": "20200109T074701Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Rojesh Shrestha (8 yrs)",
+          "DTSTART;VALUE=DATE": "20201119",
+          "SUMMARY": "Rojesh Shrestha (8 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "1df9e9cb-8251-45e4-ae3c-5715b18338e0",
+          "DTSTAMP": "20200109T074701Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Barun Thapa (8 yrs)",
+          "DTSTART;VALUE=DATE": "20201119",
+          "SUMMARY": "Barun Thapa (8 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "ca57d8b8-57f2-4ba7-b6a4-60b399c2b13f",
+          "DTSTAMP": "20200109T074701Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Anne Maina (3 yrs)",
+          "DTSTART;VALUE=DATE": "20201120",
+          "SUMMARY": "Anne Maina (3 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "e8f29cdb-99d5-4749-a857-567831907425",
+          "DTSTAMP": "20200109T074701Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Aseem Shrestha (3 yrs)",
+          "DTSTART;VALUE=DATE": "20201120",
+          "SUMMARY": "Aseem Shrestha (3 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "5ba5e48d-97fb-4710-883b-9193360fd3fd",
+          "DTSTAMP": "20200109T074701Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Deep Subedi (3 yrs)",
+          "DTSTART;VALUE=DATE": "20201120",
+          "SUMMARY": "Deep Subedi (3 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "f1becdab-0176-4b02-8904-3094d1c6228f",
+          "DTSTAMP": "20200109T074701Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Ed Kimani (3 yrs)",
+          "DTSTART;VALUE=DATE": "20201122",
+          "SUMMARY": "Ed Kimani (3 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "0ecbab06-a910-4ab3-9240-2f268b0a9b6a",
+          "DTSTAMP": "20200109T074701Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Kushal Rajbhandari (5 yrs)",
+          "DTSTART;VALUE=DATE": "20201123",
+          "SUMMARY": "Kushal Rajbhandari (5 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "ee69ad0d-4c65-4810-9c8d-381f1734c177",
+          "DTSTAMP": "20200109T074701Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Amanda Tenedini (1 yr)",
+          "DTSTART;VALUE=DATE": "20201129",
+          "SUMMARY": "Amanda Tenedini (1 yr)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "2e39358c-94c8-40eb-8a1b-d7a7d2b4344f",
+          "DTSTAMP": "20200109T074701Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Lau Chin (10 yrs)",
+          "DTSTART;VALUE=DATE": "20201201",
+          "SUMMARY": "Lau Chin (10 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "644f84dd-4fa4-42b3-94e6-2ad9e42c1b8c",
+          "DTSTAMP": "20200109T074701Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Mark Sears (12 yrs)",
+          "DTSTART;VALUE=DATE": "20201201",
+          "SUMMARY": "Mark Sears (12 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "516fbce7-1c1c-4000-86b0-3ca8964e291a",
+          "DTSTAMP": "20200109T074701Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Ratish Shrestha (6 yrs)",
+          "DTSTART;VALUE=DATE": "20201201",
+          "SUMMARY": "Ratish Shrestha (6 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "9323a83a-586e-4fc0-a970-515de49e6755",
+          "DTSTAMP": "20200109T074701Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Bikash Poudel (12 yrs)",
+          "DTSTART;VALUE=DATE": "20201201",
+          "SUMMARY": "Bikash Poudel (12 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "ee92d2a3-a327-4a27-a93c-dd972b9242fb",
+          "DTSTAMP": "20200109T074701Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Asesh Shrestha (4 yrs)",
+          "DTSTART;VALUE=DATE": "20201201",
+          "SUMMARY": "Asesh Shrestha (4 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "4172495d-8020-4333-8509-010741f3ab4c",
+          "DTSTAMP": "20200109T074701Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Bishnu Pandey (5 yrs)",
+          "DTSTART;VALUE=DATE": "20201201",
+          "SUMMARY": "Bishnu Pandey (5 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "2982f806-bab5-47af-807c-b43b5e2744d8",
+          "DTSTAMP": "20200109T074701Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Ashis Rai (12 yrs)",
+          "DTSTART;VALUE=DATE": "20201201",
+          "SUMMARY": "Ashis Rai (12 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "a62f2283-1fe7-4eee-b985-cd7d72bc0f76",
+          "DTSTAMP": "20200109T074701Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Sagar Kafle (1 yr)",
+          "DTSTART;VALUE=DATE": "20201202",
+          "SUMMARY": "Sagar Kafle (1 yr)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "39f2a6ca-c843-4af4-9562-2d3e0958cf34",
+          "DTSTAMP": "20200109T074701Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Timothy McLeod (1 yr)",
+          "DTSTART;VALUE=DATE": "20201202",
+          "SUMMARY": "Timothy McLeod (1 yr)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "057c29d2-66d2-40a5-a49f-5f11d4dd8606",
+          "DTSTAMP": "20200109T074701Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Monica Ghimire (7 yrs)",
+          "DTSTART;VALUE=DATE": "20201204",
+          "SUMMARY": "Monica Ghimire (7 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "dddb325a-cc18-472e-87d9-6a6e87977220",
+          "DTSTAMP": "20200109T074701Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Beth Curtis-Clarke (1 yr)",
+          "DTSTART;VALUE=DATE": "20201205",
+          "SUMMARY": "Beth Curtis-Clarke (1 yr)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "f45f2ebc-d5fa-4266-bdfc-dd41fbcd9c1e",
+          "DTSTAMP": "20200109T074701Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Aashish Manandhar (5 yrs)",
+          "DTSTART;VALUE=DATE": "20201207",
+          "SUMMARY": "Aashish Manandhar (5 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "ff5abb76-8220-478f-9218-4e12d2e4ec02",
+          "DTSTAMP": "20200109T074701Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Camden Carver (1 yr)",
+          "DTSTART;VALUE=DATE": "20201209",
+          "SUMMARY": "Camden Carver (1 yr)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "40dc40ef-8138-4dc7-9f47-382c43a6e328",
+          "DTSTAMP": "20200109T074701Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Trey Velleggia III (1 yr)",
+          "DTSTART;VALUE=DATE": "20201209",
+          "SUMMARY": "Trey Velleggia III (1 yr)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "e7c07e7c-bd4c-4a89-a81b-1b3835d94994",
+          "DTSTAMP": "20200109T074701Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Caroline Thomasset (1 yr)",
+          "DTSTART;VALUE=DATE": "20201209",
+          "SUMMARY": "Caroline Thomasset (1 yr)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "50ab7f34-959c-4286-89c6-06e0d2b015a8",
+          "DTSTAMP": "20200109T074701Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Sammar Simmons (3 yrs)",
+          "DTSTART;VALUE=DATE": "20201211",
+          "SUMMARY": "Sammar Simmons (3 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "f9afe06f-ddd2-4a58-9508-12b6863ecab0",
+          "DTSTAMP": "20200109T074701Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Madhusudan Khadka (4 yrs)",
+          "DTSTART;VALUE=DATE": "20201212",
+          "SUMMARY": "Madhusudan Khadka (4 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "f0083153-ae8b-45e2-a948-787ff2c9f9c8",
+          "DTSTAMP": "20200109T074701Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Manoj Shrestha (1 yr)",
+          "DTSTART;VALUE=DATE": "20201216",
+          "SUMMARY": "Manoj Shrestha (1 yr)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "ebfb8430-92f2-412a-8d14-b418ea7e71b4",
+          "DTSTAMP": "20200109T074701Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Smita Shrestha (3 yrs)",
+          "DTSTART;VALUE=DATE": "20201218",
+          "SUMMARY": "Smita Shrestha (3 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "6774f566-cebb-409f-b4e4-a342a186605d",
+          "DTSTAMP": "20200109T074701Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Shristi Shrestha (3 yrs)",
+          "DTSTART;VALUE=DATE": "20201221",
+          "SUMMARY": "Shristi Shrestha (3 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "d54de72b-33ec-4fa4-8975-39823faeb893",
+          "DTSTAMP": "20200109T074701Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Rojen Manandhar (5 yrs)",
+          "DTSTART;VALUE=DATE": "20201221",
+          "SUMMARY": "Rojen Manandhar (5 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "f10faf4f-03ee-4f9f-b4f9-d373baaf41ae",
+          "DTSTAMP": "20200109T074701Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Basanti Neupane (5 yrs)",
+          "DTSTART;VALUE=DATE": "20201221",
+          "SUMMARY": "Basanti Neupane (5 yrs)",
+          "TRANSP": "TRANSPARENT"
+        },
+        {
+          "UID": "e974c8a0-eb03-4ec7-bfb1-811104c1e727",
+          "DTSTAMP": "20200109T074701Z",
+          "CATEGORIES": "Anniversaries",
+          "DESCRIPTION": "Employee anniversary for Sujan Chapagain (6 yrs)",
+          "DTSTART;VALUE=DATE": "20201222",
+          "SUMMARY": "Sujan Chapagain (6 yrs)",
+          "TRANSP": "TRANSPARENT"
+        }
+      ]
+    }
+  ]
+}
